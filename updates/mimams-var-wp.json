@@ -1,11 +1,11 @@
 {
-  "version": "1.2.13",
-  "download_url": "https://raw.githubusercontent.com/hebronmimam/mimams-var-releases/main/packages/mimams-var-wp-v1.2.13.zip",
+  "version": "1.2.14",
+  "download_url": "https://raw.githubusercontent.com/hebronmimam/mimams-var-releases/main/packages/mimams-var-wp-v1.2.14.zip",
   "details_url": "https://github.com/hebronmimam/mimams-var-releases",
   "requires": "6.0",
   "requires_php": "7.4",
   "tested": "6.6",
   "sections": {
-    "changelog": "Fixes the panel update link nonce URL, improves native WordPress update detection, recenters the admin bar logo/text, darkens the background blur, and softens outlined button hover states."
+    "changelog": "Adds the first licensing gate foundation, removes the panel background blur, and locks ghost/outlined button hover text to a calm readable color."
   }
 }
