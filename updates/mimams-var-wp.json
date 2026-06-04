@@ -1,11 +1,11 @@
 {
-  "version": "1.2.23",
-  "download_url": "https://raw.githubusercontent.com/hebronmimam/mimams-var-releases/main/packages/mimams-var-wp-v1.2.23.zip",
+  "version": "1.2.24",
+  "download_url": "https://raw.githubusercontent.com/hebronmimam/mimams-var-releases/main/packages/mimams-var-wp-v1.2.24.zip",
   "details_url": "https://github.com/hebronmimam/mimams-var-releases",
   "requires": "6.0",
   "requires_php": "7.4",
   "tested": "6.6",
   "sections": {
-    "changelog": "Fixes the MV color picker hue slider gradient, adds color picker close animation, rounds and insets the docked main MV panel, and improves CSS Studio autocomplete for var(), variables, classes, IDs, recipes, and forced Ctrl/Cmd+Space suggestions."
+    "changelog": "Fixes the CSS Studio editor sidecar by using a close icon, restoring full-height editor layout, and expanding autocomplete indexing across more WordPress, builder, DOM, class, ID, and variable data."
   }
 }
