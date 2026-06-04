@@ -1,11 +1,11 @@
 {
-  "version": "1.2.11",
-  "download_url": "https://raw.githubusercontent.com/hebronmimam/mimams-var-releases/main/packages/mimams-var-wp-v1.2.11.zip",
+  "version": "1.2.12",
+  "download_url": "https://raw.githubusercontent.com/hebronmimam/mimams-var-releases/main/packages/mimams-var-wp-v1.2.12.zip",
   "details_url": "https://github.com/hebronmimam/mimams-var-releases",
   "requires": "6.0",
   "requires_php": "7.4",
   "tested": "6.6",
   "sections": {
-    "changelog": "Fixes first-click collapse for default-open base groups, replaces the WP admin bar icon slot with the Hebronmimam logo, softens ghost-button hover colors, lets Snapshots use the full panel height, and improves startup collection metadata sync from Figma to WordPress."
+    "changelog": "Centers the WP admin bar logo/text, replaces the panel color overlay with background blur, keeps .base parents collapsed by default, removes duplicate Figma stats text, and further softens ghost/outlined button hover states."
   }
 }
