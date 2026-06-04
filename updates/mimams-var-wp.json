@@ -1,11 +1,11 @@
 {
-  "version": "1.2.19",
-  "download_url": "https://raw.githubusercontent.com/hebronmimam/mimams-var-releases/main/packages/mimams-var-wp-v1.2.19.zip",
+  "version": "1.2.20",
+  "download_url": "https://raw.githubusercontent.com/hebronmimam/mimams-var-releases/main/packages/mimams-var-wp-v1.2.20.zip",
   "details_url": "https://github.com/hebronmimam/mimams-var-releases",
   "requires": "6.0",
   "requires_php": "7.4",
   "tested": "6.6",
   "sections": {
-    "changelog": "Refines floating/docked panel behavior, removes offscreen update-page shadows, adds update channels, simplifies CSS Studio to one global default stylesheet, improves CSS Studio autocomplete, validation, recipes, checkbox styling, and source-priority drag feedback."
+    "changelog": "Adds logical CSS property validation, capped autocomplete suggestions, source enable/disable controls, recipe shortcode insertion, the first MV custom color picker, clearer scope labeling, smoother panel snapping, and a license server placeholder for lic.hebronmimam.com."
   }
 }
