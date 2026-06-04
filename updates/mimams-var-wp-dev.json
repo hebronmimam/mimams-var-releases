@@ -6,6 +6,6 @@
   "requires_php": "7.4",
   "tested": "6.6",
   "sections": {
-    "changelog": "Refines floating/docked panel behavior, removes offscreen update-page shadows, adds update channels, simplifies CSS Studio to one global default stylesheet, improves CSS Studio autocomplete, validation, recipes, checkbox styling, and source-priority drag feedback."
+    "changelog": "Dev channel currently tracks stable. Future dev builds can be published here for selected test sites."
   }
 }
