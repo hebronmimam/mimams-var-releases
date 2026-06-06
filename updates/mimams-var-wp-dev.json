@@ -1,6 +1,6 @@
 {
-  "version": "1.2.32",
-  "download_url": "https://raw.githubusercontent.com/hebronmimam/mimams-var-releases/main/packages/mimams-var-wp-v1.2.32.zip",
+  "version": "1.2.33",
+  "download_url": "https://raw.githubusercontent.com/hebronmimam/mimams-var-releases/main/packages/mimams-var-wp-v1.2.33.zip",
   "details_url": "https://github.com/hebronmimam/mimams-var-releases",
   "requires": "6.0",
   "requires_php": "7.4",
