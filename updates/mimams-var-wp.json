@@ -1,11 +1,11 @@
 {
-  "version": "1.2.33",
-  "download_url": "https://raw.githubusercontent.com/hebronmimam/mimams-var-releases/main/packages/mimams-var-wp-v1.2.33.zip",
+  "version": "1.2.34",
+  "download_url": "https://raw.githubusercontent.com/hebronmimam/mimams-var-releases/main/packages/mimams-var-wp-v1.2.34.zip",
   "details_url": "https://github.com/hebronmimam/mimams-var-releases",
   "requires": "6.0",
   "requires_php": "7.4",
   "tested": "6.6",
   "sections": {
-    "changelog": "Adds targeted active-theme template scanning for PHP, HTML, Twig, and Mustache files so CSS Studio can index static class, className, id, and custom-property usage without broad source-code noise. Also preserves escaped utility-style class selectors more faithfully."
+    "changelog": "Adds a Refresh Index control in CSS Studio settings, force-refresh support for the suggestions endpoint, and visible suggestion counts for variables, classes, and IDs."
   }
 }
