@@ -1,11 +1,11 @@
 {
-  "version": "1.2.31",
-  "download_url": "https://raw.githubusercontent.com/hebronmimam/mimams-var-releases/main/packages/mimams-var-wp-v1.2.31.zip",
+  "version": "1.2.32",
+  "download_url": "https://raw.githubusercontent.com/hebronmimam/mimams-var-releases/main/packages/mimams-var-wp-v1.2.32.zip",
   "details_url": "https://github.com/hebronmimam/mimams-var-releases",
   "requires": "6.0",
   "requires_php": "7.4",
   "tested": "6.6",
   "sections": {
-    "changelog": "Adds bounded generated-CSS scanning for Bricks, Automatic.css, ACSS, Core Framework, Advanced Themer, and Mimam's Var output so CSS Studio autocomplete can see classes, IDs, and custom properties that only exist in compiled CSS. Also improves Enter indentation inside auto-closed braces."
+    "changelog": "Adds capped CSS Studio indexing for active theme CSS/SCSS/LESS/JSON files and known source plugin folders including Bricks, Automatic.css, ACSS, Advanced Themer, Core Framework, WPCodeBox, Code2Bricks, and Etch, while skipping vendor and oversized files."
   }
 }
