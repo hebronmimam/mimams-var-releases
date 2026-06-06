@@ -1,11 +1,11 @@
 {
-  "version": "1.2.27",
-  "download_url": "https://raw.githubusercontent.com/hebronmimam/mimams-var-releases/main/packages/mimams-var-wp-v1.2.27.zip",
+  "version": "1.2.28",
+  "download_url": "https://raw.githubusercontent.com/hebronmimam/mimams-var-releases/main/packages/mimams-var-wp-v1.2.28.zip",
   "details_url": "https://github.com/hebronmimam/mimams-var-releases",
   "requires": "6.0",
   "requires_php": "7.4",
   "tested": "6.6",
   "sections": {
-    "changelog": "Improves CSS Studio typing by disabling live auto-format, replacing expensive suggestion scoring with indexed lookup, reducing brace-pairing rescans, adding lightweight syntax highlighting, and improving variable suggestion ordering."
+    "changelog": "Adds CodeMirror as the primary CSS Studio editor, wires MV variables/classes/IDs/properties/values/recipes into autocomplete, adds smart Enter indentation, and broadens indexing for larger builder sites."
   }
 }
