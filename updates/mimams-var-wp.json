@@ -1,11 +1,11 @@
 {
-  "version": "1.2.81",
-  "download_url": "https://github.com/hebronmimam/mimams-var-releases/raw/main/packages/mimams-var-wp-v1.2.81.zip",
+  "version": "1.2.82",
+  "download_url": "https://github.com/hebronmimam/mimams-var-releases/raw/main/packages/mimams-var-wp-v1.2.82.zip",
   "details_url": "https://github.com/hebronmimam/mimams-var-releases",
   "requires": "6.0",
   "requires_php": "7.4",
   "tested": "6.6",
   "sections": {
-    "changelog": "v1.2.81: Fixed Settings, Help, and CSS Studio panel heights to match Variable panel exactly; fixed CSS Studio editor clipping and overlap; allowed multiple standalone panels to remain open concurrently; synchronized Bricks shortcut rail dragging/resizing in real-time; fixed broken drag icons and minimize buttons."
+    "changelog": "v1.2.82: Fix standalone panel heights (Settings, Help, CSS Studio) to dynamically match docked/floating state of the Variable panel; fix structure panel minimize SVG (remove the diagonal slash); resolve Bricks/Advanced Themer shortcut container styling overlap and synchronization issues using physical positioning properties."
   }
 }
