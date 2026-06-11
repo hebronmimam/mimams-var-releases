@@ -1,11 +1,11 @@
 {
-  "version": "1.2.96",
-  "download_url": "https://github.com/hebronmimam/mimams-var-releases/raw/main/packages/mimams-var-wp-v1.2.96.zip",
+  "version": "1.2.97",
+  "download_url": "https://github.com/hebronmimam/mimams-var-releases/raw/main/packages/mimams-var-wp-v1.2.97.zip",
   "details_url": "https://github.com/hebronmimam/mimams-var-releases",
   "requires": "6.0",
   "requires_php": "7.4",
   "tested": "6.6",
   "sections": {
-    "changelog": "v1.2.96: Recovery release rebuilt from the last confirmed working v1.2.93 codebase. Restores a syntax-valid WordPress panel and holds back the unverified v1.2.94/v1.2.95 Content/Media Studio redesign and Modules settings changes for smaller verified releases."
+    "changelog": "v1.2.97: Reintroduces post-v1.2.93 feature work in a verified, syntax-valid state. Includes robust settings local storage fallbacks, visibility triggers to hide the FAB speed-dial when any panel is open, modules settings panel deactivation tab to turn off css_studio/mimams_bar/content_studio/media_studio, Mimam's Bar asset enqueuing bypass, and centered widescreen layout upgrades for Content Studio and Media Studio."
   }
 }
