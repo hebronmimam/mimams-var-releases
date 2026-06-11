@@ -6,6 +6,6 @@
   "requires_php": "7.4",
   "tested": "6.6",
   "sections": {
-    "changelog": "v1.2.100: Hardened Media Studio with paginated media detection, folder-plugin collection detection, Ctrl/Cmd and Shift multi-select, collection chooser for batch assignment, stronger grid overlap prevention, font/document previews, full-screen drag/drop feedback, replace-file and image conversion actions, and MV-styled filters/inputs. Fixed Content Studio route loading, added an MV-owned builder shortcut rail toggle, delayed builder panel injection until Bricks finishes loading, and scoped Figma pairing per file."
+    "changelog": "v1.2.100: Hardened Media Studio with paginated media detection, folder-plugin collection detection, Ctrl/Cmd and Shift multi-select, collection chooser for batch assignment, stronger grid overlap prevention, font/document previews, full-screen drag/drop feedback, replace-file and image conversion actions, full searchable Phosphor icon catalog, and MV-styled filters/inputs. Fixed Content Studio route loading, added an MV-owned builder shortcut rail toggle, delayed builder panel injection until Bricks finishes loading, and scoped Figma pairing per file."
   }
 }
