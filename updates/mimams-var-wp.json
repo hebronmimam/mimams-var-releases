@@ -1,11 +1,11 @@
 {
-  "version": "1.2.106",
-  "download_url": "https://github.com/hebronmimam/mimams-var-releases/raw/main/packages/mv-wp-v1.2.106.zip",
+  "version": "1.2.107",
+  "download_url": "https://github.com/hebronmimam/mimams-var-releases/raw/main/packages/mv-wp-v1.2.107.zip",
   "details_url": "https://github.com/hebronmimam/mimams-var-releases",
   "requires": "6.0",
   "requires_php": "7.4",
   "tested": "6.6",
   "sections": {
-    "changelog": "v1.2.106: Elements floating panel handles now render even before a Bricks element is selected. Structure shortcut rail drag cleanup now clears transforms and stays below MV Studio overlays. Bricks media selection now remembers the originating control and can insert the selected media URL, with a safe copy fallback. Media conversion now uses converting/converted toasts without reloading the whole Studio. Content Studio section switching clears stale rows immediately, Edit in Studio opens the inline editor more reliably, CSS Recipes now has a dedicated Studio panel, and the panel behavior setting is labelled for single/multiple panel use."
+    "changelog": "v1.2.107: Finishes the Studio polish pass after v1.2.106. CSS Studio now keeps its editor sidecar placement instead of being flattened by the generic standalone panel rule. Media Studio collections now have an MV-styled right-click menu, local collection rename/remove actions, sub-collection creation, drag-to-reorder, and Shift-drop nesting. The release keeps the short mv-wp package filename while preserving the internal variable-engine WordPress plugin folder."
   }
 }
