@@ -1,11 +1,11 @@
 {
-  "version": "1.2.108",
-  "download_url": "https://github.com/hebronmimam/mimams-var-releases/raw/main/packages/mv-wp-v1.2.108.zip",
+  "version": "1.2.109",
+  "download_url": "https://github.com/hebronmimam/mimams-var-releases/raw/main/packages/mv-wp-v1.2.109.zip",
   "details_url": "https://github.com/hebronmimam/mimams-var-releases",
   "requires": "6.0",
   "requires_php": "7.4",
   "tested": "6.6",
   "sections": {
-    "changelog": "v1.2.108: Fixes the review issues from v1.2.107. CSS Studio now uses the compact MV panel with its editor sidecar beside it. Media Studio collection counts include detected folder-plugin folders, local MV collections are labelled and draggable from an explicit handle, sub-collections use a modal workflow, folder-plugin collections are clearly marked as detected/read-only for hierarchy changes, Bricks media insertion closes the picker, and media conversion status is tied to the exact selected asset. Content Studio inputs now match button height, Edit in Studio starts reliably, CSS Recipes uses a centered studio width, toast countdown rings animate cleanly, and Builder Tools floating handles/structure rail visibility are stabilized."
+    "changelog": "v1.2.109: Corrects the remaining v1.2.108 review issues. CSS Studio is separated from large Studio modal sizing so its compact settings panel and editor sidecar stay side-by-side. CSS Recipes is explicitly centered at Studio width. Content Studio Edit in Studio now uses the correct in-module save handler. Media Studio collection context menus open at the click point, MV collections can be dragged from the row or handle, and detected folder-plugin collections show a read-only lock affordance. Builder Tools mounts the Structure shortcut rail to the Structure panel so it moves with the panel instead of jittering as a separate fixed element."
   }
 }
