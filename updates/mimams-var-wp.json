@@ -1,11 +1,11 @@
 {
-  "version": "1.2.107",
-  "download_url": "https://github.com/hebronmimam/mimams-var-releases/raw/main/packages/mv-wp-v1.2.107.zip",
+  "version": "1.2.108",
+  "download_url": "https://github.com/hebronmimam/mimams-var-releases/raw/main/packages/mv-wp-v1.2.108.zip",
   "details_url": "https://github.com/hebronmimam/mimams-var-releases",
   "requires": "6.0",
   "requires_php": "7.4",
   "tested": "6.6",
   "sections": {
-    "changelog": "v1.2.107: Finishes the Studio polish pass after v1.2.106. CSS Studio now keeps its editor sidecar placement instead of being flattened by the generic standalone panel rule. Media Studio collections now have an MV-styled right-click menu, local collection rename/remove actions, sub-collection creation, drag-to-reorder, and Shift-drop nesting. The release keeps the short mv-wp package filename while preserving the internal variable-engine WordPress plugin folder."
+    "changelog": "v1.2.108: Fixes the review issues from v1.2.107. CSS Studio now uses the compact MV panel with its editor sidecar beside it. Media Studio collection counts include detected folder-plugin folders, local MV collections are labelled and draggable from an explicit handle, sub-collections use a modal workflow, folder-plugin collections are clearly marked as detected/read-only for hierarchy changes, Bricks media insertion closes the picker, and media conversion status is tied to the exact selected asset. Content Studio inputs now match button height, Edit in Studio starts reliably, CSS Recipes uses a centered studio width, toast countdown rings animate cleanly, and Builder Tools floating handles/structure rail visibility are stabilized."
   }
 }
