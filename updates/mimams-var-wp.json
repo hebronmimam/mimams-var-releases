@@ -1,11 +1,11 @@
 {
-  "version": "1.2.113",
-  "download_url": "https://github.com/hebronmimam/mimams-var-releases/raw/main/packages/mv-wp-v1.2.113.zip",
+    "version": "1.2.114",
+    "download_url": "https://github.com/hebronmimam/mimams-var-releases/raw/main/packages/mv-wp-v1.2.114.zip",
   "details_url": "https://github.com/hebronmimam/mimams-var-releases",
   "requires": "6.0",
   "requires_php": "7.4",
   "tested": "6.6",
   "sections": {
-    "changelog": "v1.2.113: Stabilizes Builder Tools floating Structure and Elements drag by writing fixed left/top during drag instead of transform-on-drop, lowers floated Bricks panel layers below Advanced Themer popovers, tightens floating handle styling, prevents CSS/content editors from overwriting the caret while typing, improves CSS Recipes shortcode spacing and button placement, centers Media Studio collection context-menu arrows on the clicked row, adds logical CSS property validation, lets Content Studio hide unsupported WordPress content editors, and shows/saves detected custom fields."
-  }
+        "changelog": "v1.2.114: Separates Rank Math custom fields in Content Studio, preserves richer custom-field/meta values for safer editing, adds safe JetEngine-to-ACF migration preview/apply endpoints, merges CSS Studio settings and editor into one panel, fixes CSS variable autocomplete to wrap bare --tokens in var(), improves CSS Recipes editor spacing, tightens Media Studio context-menu anchoring, standardizes studio input height, and further stabilizes floating Bricks Structure/Elements manual positions."
+    }
 }
