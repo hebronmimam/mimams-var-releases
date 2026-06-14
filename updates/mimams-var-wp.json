@@ -1,11 +1,11 @@
 {
-    "version": "1.2.115",
-    "download_url": "https://github.com/hebronmimam/mimams-var-releases/raw/main/packages/mv-wp-v1.2.115.zip",
+    "version": "1.2.116",
+    "download_url": "https://github.com/hebronmimam/mimams-var-releases/raw/main/packages/mv-wp-v1.2.116.zip",
   "details_url": "https://github.com/hebronmimam/mimams-var-releases",
   "requires": "6.0",
   "requires_php": "7.4",
   "tested": "6.6",
   "sections": {
-        "changelog": "v1.2.115: Restores CSS Studio to the narrow Variable Panel style, prevents Bricks Structure clicks from opening Media Studio, fixes bare --token CSS autocomplete wrapping, improves Media Studio collection context-menu anchoring, snapshots/restores floating Bricks panel inline styles, cleans up MV floating header wrappers on dock restore, keeps Structure expand/caret controls visible, and removes pulsing shadow transitions from floating Structure/Elements panels."
+        "changelog": "v1.2.116: Makes CSS Studio's editor fill the remaining Variable Panel height, compacts the stylesheet list, keeps Bricks Structure expand controls visible while floating, improves targeted dock cleanup when Structure or Elements floating is disabled, further softens floating-panel shadows, anchors Media Studio context menus against the Studio layout, and makes selected Rank Math internal fields read-only in Content Studio."
     }
 }
