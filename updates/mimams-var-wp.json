@@ -1,11 +1,11 @@
 {
-    "version": "1.2.119",
-    "download_url": "https://github.com/hebronmimam/mimams-var-releases/raw/main/packages/mv-wp-v1.2.119.zip",
+    "version": "1.2.120",
+    "download_url": "https://github.com/hebronmimam/mimams-var-releases/raw/main/packages/mv-wp-v1.2.120.zip",
     "details_url": "https://github.com/hebronmimam/mimams-var-releases",
     "requires": "6.0",
     "requires_php": "7.4",
     "tested": "6.6",
     "sections": {
-        "changelog": "v1.2.119: Fixes Builder Tools floating Elements and Structure shells so the active shell wrapper is not removed immediately after toggling float, tightens Bricks toolbar MV control alignment, and restores Media Studio collection context menus to Studio-relative row anchoring with lower-row clamping."
+        "changelog": "v1.2.120: Replaces S/M/L/XL floating shell sizing with MV-owned Narrow, Balanced, Wide, and Max presets, updates dock/float/hide controls to a distinct Mimam's Var style, fixes Wide/Max width persistence, and adds Structure-specific floating shell spacing/toggle rules so Bricks row expand/caret controls remain visible and clickable."
     }
 }
