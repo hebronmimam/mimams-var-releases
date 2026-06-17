@@ -1,11 +1,11 @@
 {
-    "version": "1.2.122",
-    "download_url": "https://github.com/hebronmimam/mimams-var-releases/raw/main/packages/mv-wp-v1.2.122.zip",
+    "version": "1.2.123",
+    "download_url": "https://github.com/hebronmimam/mimams-var-releases/raw/main/packages/mv-wp-v1.2.123.zip",
     "details_url": "https://github.com/hebronmimam/mimams-var-releases",
     "requires": "6.0",
     "requires_php": "7.4",
     "tested": "6.6",
     "sections": {
-        "changelog": "v1.2.122: Shows update notices across all Mimam's Var panels, syncs UI preferences through the logged-in WordPress account, consolidates Bricks Elements/Structure toolbar controls into one compact MV popover, restores hidden panels to their previous docked or floating mode, and corrects the plugin author to Hebronmimam."
+        "changelog": "v1.2.123: Places the compact Builder Tools panel-preference icon immediately before Undo, keeps its hover popover reachable while moving the pointer into it, and restores hidden floating Elements or Structure panels to their saved viewport-safe geometry."
     }
 }
