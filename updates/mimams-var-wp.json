@@ -1,11 +1,11 @@
 {
-    "version": "1.2.117",
-    "download_url": "https://github.com/hebronmimam/mimams-var-releases/raw/main/packages/mv-wp-v1.2.117.zip",
-  "details_url": "https://github.com/hebronmimam/mimams-var-releases",
-  "requires": "6.0",
-  "requires_php": "7.4",
-  "tested": "6.6",
-  "sections": {
-        "changelog": "v1.2.117: Stabilizes Builder Tools floating Structure and Elements restore by removing inactive float root classes before cleanup, stops wrapping Bricks Structure internals in an MV layout wrapper, scopes floating button layout rules to panel headers so Structure expand controls remain visible/clickable, and re-centers Media Studio collection context menus around the clicked row."
+    "version": "1.2.118",
+    "download_url": "https://github.com/hebronmimam/mimams-var-releases/raw/main/packages/mv-wp-v1.2.118.zip",
+    "details_url": "https://github.com/hebronmimam/mimams-var-releases",
+    "requires": "6.0",
+    "requires_php": "7.4",
+    "tested": "6.6",
+    "sections": {
+        "changelog": "v1.2.118: Reworks Builder Tools floating Elements and Structure into MV-owned floating shells with custom headers, S/M/L/XL width presets, dock/hide controls, Bricks toolbar mode controls, 100% default opacity, native Structure caret preservation, shell cleanup on dock/hide, and viewport-anchored Media Studio collection context menus for lower sidebar rows."
     }
 }
