@@ -1,11 +1,11 @@
 {
-    "version": "1.2.126",
-    "download_url": "https://github.com/hebronmimam/mimams-var-releases/raw/main/packages/mv-wp-v1.2.126.zip",
+    "version": "1.2.127",
+    "download_url": "https://github.com/hebronmimam/mimams-var-releases/raw/main/packages/mv-wp-v1.2.127.zip",
     "details_url": "https://github.com/hebronmimam/mimams-var-releases",
     "requires": "6.0",
     "requires_php": "7.4",
     "tested": "6.6",
     "sections": {
-        "changelog": "v1.2.126: Synchronizes fresh manifest checks into WordPress's native update transient so updates appear on the first Plugins/Updates refresh, and removes unnecessary restore delays from floating Elements and Structure panels."
+        "changelog": "v1.2.127: Hardens variable CRUD, generated CSS, snapshots, rollback, import/export relationships, and database failure recovery. Also normalizes variable-name spaces to hyphens, refreshes Code2Bricks-visible styles after mutations, updates selected values immediately, improves color-format spacing, and prevents Bricks navigation icons from opening Media Studio."
     }
 }
