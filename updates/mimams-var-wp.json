@@ -1,11 +1,11 @@
 {
-    "version": "1.2.128",
-    "download_url": "https://github.com/hebronmimam/mimams-var-releases/raw/main/packages/mv-wp-v1.2.128.zip",
+    "version": "1.2.129",
+    "download_url": "https://github.com/hebronmimam/mimams-var-releases/raw/main/packages/mv-wp-v1.2.129.zip",
     "details_url": "https://github.com/hebronmimam/mimams-var-releases",
     "requires": "6.0",
     "requires_php": "7.4",
     "tested": "6.6",
     "sections": {
-        "changelog": "v1.2.128: Mirrors Mimam's Var tokens into Bricks global variables for Code2Bricks discovery, refreshes Code2Bricks immediately after variable changes, restores Media Studio replacement for Bricks media controls, and matches color channel fields to the standard input height."
+        "changelog": "v1.2.129: Reconciles tokens directly into Code2Bricks autocomplete on startup and mutation, routes Bricks media frames through Media Studio, standardizes single-line builder controls at 38px, prevents duplicate rounded scale names, and adds alias creation."
     }
 }
