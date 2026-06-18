@@ -1,11 +1,11 @@
 {
-    "version": "1.3.01",
-    "download_url": "https://github.com/hebronmimam/mimams-var-releases/raw/main/packages/mv-wp-v1.3.01.zip",
+    "version": "1.3.02",
+    "download_url": "https://github.com/hebronmimam/mimams-var-releases/raw/main/packages/mv-wp-v1.3.02.zip",
     "details_url": "https://github.com/hebronmimam/mimams-var-releases",
     "requires": "6.0",
     "requires_php": "7.4",
     "tested": "6.6",
     "sections": {
-        "changelog": "v1.3.01: Adds cache-busting to variables API fetches to ensure edited values propagate instantly to the canvas, automatically closes Media Studio on asset insertion, adds Tab key navigation support for autocomplete selections, and fully resolves previews, swatches, and values for alias variables."
+        "changelog": "v1.3.02: Makes Bricks canvas custom-property values resolve through nested runtimes, adds unsaved live color previews, automatically detects static var() references as aliases, hides the static edit category selector, and limits variable row actions to icon hover."
     }
 }
