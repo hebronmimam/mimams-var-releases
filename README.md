@@ -8,5 +8,5 @@ WordPress update manifest:
 
 Latest packages:
 
-- packages/mv-wp-v1.3.21.zip
+- packages/mv-wp-v1.3.22.zip
 - packages/mimams-var-figma-v2.17.16.zip
