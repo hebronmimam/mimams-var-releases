@@ -2,11 +2,14 @@
 
 Public update feed and package host for Mimam's Var - WP and Mimam's Var - Figma.
 
-WordPress update manifest:
+WordPress update manifests:
 
-- https://raw.githubusercontent.com/hebronmimam/mimams-var-releases/main/updates/mimams-var-wp.json
+- Stable: https://raw.githubusercontent.com/hebronmimam/mimams-var-releases/main/updates/mimams-var-wp.json
+- Beta: https://raw.githubusercontent.com/hebronmimam/mimams-var-releases/main/updates/mimams-var-wp-beta.json
+- Dev: https://raw.githubusercontent.com/hebronmimam/mimams-var-releases/main/updates/mimams-var-wp-dev.json
 
 Latest packages:
 
-- packages/mv-wp-v1.3.38.zip
+- packages/mv-wp-v1.3.39.zip (Dev)
+- packages/mv-wp-v1.3.38.zip (Stable)
 - packages/mimams-var-figma-v2.17.16.zip
