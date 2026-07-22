@@ -10,6 +10,6 @@ WordPress update manifests:
 
 Latest packages:
 
-- packages/mv-wp-v1.3.290.zip (Dev)
+- packages/mv-wp-v1.3.291.zip (Dev)
 - packages/mv-wp-v1.3.289.zip (Stable)
 - packages/mimams-var-figma-v2.19.7.zip
