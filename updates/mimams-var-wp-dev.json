@@ -1,15 +1,20 @@
 {
-  "version": "1.3.544",
-  "download_url": "https://raw.githubusercontent.com/hebronmimam/mimams-var-releases/main/packages/mv-wp-v1.3.544.zip",
+  "version": "1.3.545",
+  "download_url": "https://raw.githubusercontent.com/hebronmimam/mimams-var-releases/main/packages/mv-wp-v1.3.545.zip",
   "details_url": "https://hebronmimam.com",
   "requires": "6.0",
   "requires_php": "7.4",
   "tested": "6.6",
   "sections": {
-    "description": "Mimam's Bar finds an attribute by its value, not only by its name. The calm styling is reverted across the product, the update pill and install ledger are back on their approved mock, and the media right-click menu matches MV's own menus.",
-    "changelog": "<h4>v1.3.544 &mdash; An attribute is findable by its value</h4>\n<ul>\n<li>Typing slant finds data-section-edge=\"slant\". It did not before, for two reasons that had to be fixed together. The ranking scored the attribute name only, so a value could never match — the attribute was on the page, was indexed, and still could not be found. And the site index deduped by name and kept the first value it saw, so a second setting of the same attribute was never indexed at all. Values are indexed now, most used first, and a suggestion is scored against every string that identifies it.</li>\n<li>A value hit ranks under a name hit, never instead of it. Typing a name still leads with that name and still lists it once, not once per value it has ever carried; the other values appear only when the query actually names them. The matched value is marked in the row, the way a matched name is.</li>\n<li>Held by scripts/check-bar-value-search.js, which runs the real module against a stub of the page in the report rather than reading its source — a search either finds the thing or it does not. Ten checks, mutation-tested against all three ways the fix could be undone.</li>\n<li>Four more mocks archived — Media Studio — the calm pass, Theme Styles — icon rail, Button surface shade and Bricks Theme Styles — and the sub-collections mock restyled to MV's own look. It never inherited the calm block; it was written in the calm idiom, so there was nothing to cut. Panels, cards, the dialog, the mini rail and every field and button are bordered on the product's palette now.</li>\n</ul>"
+    "description": "Media Studio has its padding and its five overview cards back, and the install card folds its eight steps into one line once the update lands.",
+    "changelog": "<h4>v1.3.545 &mdash; Media Studio gets its padding back, and the install card folds</h4>\n<ul>\n<li>The media area lost its padding, and I took it. v1.3.540 said it had restored Media Studio to v1.3.502 and had not. Where a selector is written more than once — which is most of this stylesheet, since every release appends its overrides — the last body is the one that renders. That pass rewrote 32 of those last bodies with the *earlier* body of the same selector, undoing overrides that had nothing to do with the calm pass. .ve-studio-main lost padding:20px; the overview grid fell from five columns to four, so the fifth card wrapped onto its own row; the list scroller lost its frame; the colour popover lost its layout; the toolbar lost flex-wrap. Rule counts never changed, which is exactly why the checks at the time reported “zero appearance rules differ”.</li>\n<li>All 32 are restored and scripts/check-media-studio-restore.js now compares what actually *wins* against the shipped v1.3.502 package, rule by rule — 544 selectors, zero drift. It blanks comments before scanning, because the commentary in this stylesheet quotes CSS with braces and counting those as code hid half the rules from my first repair pass.</li>\n<li>The install card is the approved two-stage card. Direction C of docs/mocks/tools/2026-08-17-update-card-spacing.html: while the install runs you watch the eight steps; once it lands they fold into one confirmed line with Show steps to open them again, and the room goes to what changed and the decision — 26px before the notes heading, 26px before the buttons. A failure keeps its steps open, because that is the build where the list is the whole point, and a new install unfolds them again. The section label now sits outside the recess instead of inside it, which is where the room above it comes from.</li>\n</ul>"
   },
   "releases": [
+    {
+      "version": "1.3.545",
+      "download_url": "https://raw.githubusercontent.com/hebronmimam/mimams-var-releases/main/packages/mv-wp-v1.3.545.zip",
+      "date": "2026-08-17"
+    },
     {
       "version": "1.3.544",
       "download_url": "https://raw.githubusercontent.com/hebronmimam/mimams-var-releases/main/packages/mv-wp-v1.3.544.zip",
