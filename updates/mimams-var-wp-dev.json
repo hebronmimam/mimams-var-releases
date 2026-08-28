@@ -6,7 +6,7 @@
   "requires_php": "7.4",
   "tested": "6.6",
   "sections": {
-    "description": "The Element Tray yields to the Bricks template browser, stays canvas-anchored, and follows the logged-in account across browsers.",
+    "description": "Code Studio and CSS Studio now highlight PHP, modern CSS properties, and CSS functions accurately across the rebuilt editor themes.",
     "changelog": "<h4>v1.3.593 — Dev</h4><ul><li><strong>PHP items are syntax highlighted.</strong> Code Studio has always offered PHP and asked the editor for it, but the mode was never loaded — so PHP showed as plain text. It is highlighted now, including the HTML around the PHP tags.</li><li><strong>Modern CSS is no longer marked as a mistake.</strong> <code>inline-size</code>, <code>container-type</code>, <code>scrollbar-gutter</code> and their neighbours were being flagged as errors by the editor’s built-in property list, which predates them. Autocomplete gained about two dozen properties it was missing as well.</li><li><strong>CSS functions look like functions.</strong> <code>var()</code>, <code>clamp()</code> and <code>oklch()</code> are coloured as function calls rather than plain variables, in every theme.</li></ul>"
   },
   "releases": [
