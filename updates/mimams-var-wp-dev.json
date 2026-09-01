@@ -1,15 +1,23 @@
 {
-  "version": "1.3.603",
-  "download_url": "https://raw.githubusercontent.com/hebronmimam/mimams-var-releases/main/packages/mv-wp-v1.3.603.zip",
+  "version": "1.3.604",
+  "download_url": "https://raw.githubusercontent.com/hebronmimam/mimams-var-releases/main/packages/mv-wp-v1.3.604.zip",
   "details_url": "https://hebronmimam.com",
   "requires": "6.0",
   "requires_php": "7.4",
   "tested": "6.6",
   "sections": {
-    "description": "A class rule saved in Code Studio now reaches Bricks in Bricks’ own dialect, and the open builder is told about it so its next save cannot revert the edit.",
-    "changelog": "<h4>v1.3.603 — Dev</h4><ul><li><strong>Saving a class rule now shows up in Bricks’ own Custom CSS.</strong> Reading a rule translated Bricks’ <code>%root%</code> placeholder into the class selector; saving wrote that expansion straight back, so the two held the same rule in different spellings. The save now translates back, leaving strings and comments alone.</li><li><strong>An edit made while the builder is open is no longer lost on reload.</strong> Bricks reads its global classes once at boot and saves the whole option back from memory, so a database write on its own was overwritten by the builder’s next save. Code Studio now updates the same store Bricks’ class panel edits, and says so if it cannot.</li><li>Moving a rule into a stylesheet clears the builder’s copy too, so an adopted class has one owner rather than two that disagree.</li></ul>"
+    "description": "Content pasted from a chat assistant no longer becomes a block WordPress refuses to validate, and posts already published carrying those artefacts are repaired on save.",
+    "changelog": "<h4>v1.3.604 — Dev</h4><ul><li><strong>Pasted posts stop asking to be recovered.</strong> The reported post carried 24 <code>data-start</code> attributes, section ids, empty <code>class</code> attributes and nested selection-marker spans. WordPress validates a block by regenerating what <code>save()</code> would have written, and it writes none of that — so every affected block offered “Attempt Block Recovery”.</li><li>Content is scrubbed before it becomes a block, and a post already published carrying those artefacts is repaired on its next save.</li><li><strong>Classes are kept, not dropped.</strong> A loose class is recorded as the block’s own <code>className</code> and an id as its <code>anchor</code>, so the block validates without losing anybody’s design. Classes core generates from other attributes are left alone.</li></ul>"
   },
   "releases": [
+    {
+      "version": "1.3.604",
+      "label": "v1.3.604 Dev",
+      "channel": "dev",
+      "download_url": "https://raw.githubusercontent.com/hebronmimam/mimams-var-releases/main/packages/mv-wp-v1.3.604.zip",
+      "details_url": "https://hebronmimam.com",
+      "date": "2026-09-01"
+    },
     {
       "version": "1.3.603",
       "label": "v1.3.603 Dev",
