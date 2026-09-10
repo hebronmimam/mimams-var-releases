@@ -10,7 +10,7 @@ WordPress update manifests:
 
 Latest packages:
 
-- packages/mv-wp-v1.4.0-dev.93.zip (Dev)
+- packages/mv-wp-v1.4.0-dev.94.zip (Dev)
 - packages/mv-wp-v1.3.425.zip (Beta/Stable)
 - packages/mimams-var-figma-v2.20.0.zip (latest verified packaged Figma release)
 
