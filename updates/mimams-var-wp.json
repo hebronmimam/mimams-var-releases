@@ -16,7 +16,10 @@
       "channel": "dev",
       "download_url": "https://raw.githubusercontent.com/hebronmimam/mimams-var-releases/main/packages/mv-wp-v1.3.425.zip",
       "details_url": "https://hebronmimam.com",
-      "date": "2026-08-04"
+      "date": "2026-08-04",
+      "sha256": "7339d6fc35a48fc55a60922625d3ee8fe33b97cd02b6e04920d0d1df2e84aa38",
+      "signature": "0YkUtK21wxoit3zwoRQSgh0CXYslmXN1MVgFR9HFsWmzMkrB+USITPC1jxZCyULBVlQDt7qvRA742ovCH9B9CA==",
+      "key_id": "697b62adadb6892a"
     },
     {
       "version": "1.3.424",
@@ -24,7 +27,10 @@
       "channel": "dev",
       "download_url": "https://raw.githubusercontent.com/hebronmimam/mimams-var-releases/main/packages/mv-wp-v1.3.424.zip",
       "details_url": "https://hebronmimam.com",
-      "date": "2026-08-04"
+      "date": "2026-08-04",
+      "sha256": "253bcd2d0a0feff277492abbbd0c725d4f52507e5fe58b859de603baf5e804b0",
+      "signature": "2IjqOk8oLpSSAAE/xWSdGCYFsll2+2I3YpN0feeGCcnt4tzK7d8eU5+Gb9BBqn1VDxUVZqyMXNRFJRWuKGVHDg==",
+      "key_id": "697b62adadb6892a"
     },
     {
       "version": "1.3.423",
@@ -32,7 +38,10 @@
       "channel": "dev",
       "download_url": "https://raw.githubusercontent.com/hebronmimam/mimams-var-releases/main/packages/mv-wp-v1.3.423.zip",
       "details_url": "https://hebronmimam.com",
-      "date": "2026-08-04"
+      "date": "2026-08-04",
+      "sha256": "1cf2a1b7a16ee45436498108b101c6fba9fa88a190fdeda7e88ee1cb0e83e324",
+      "signature": "9gwmhtDVo0awTJHs8Jvtx1n49hp3pXohzsPCL15U4LA+FOEUdfFBk0EaQEoSLtzWC0n08rIv8WQc+3LN2DsCCQ==",
+      "key_id": "697b62adadb6892a"
     },
     {
       "version": "1.3.422",
@@ -40,7 +49,10 @@
       "channel": "dev",
       "download_url": "https://raw.githubusercontent.com/hebronmimam/mimams-var-releases/main/packages/mv-wp-v1.3.422.zip",
       "details_url": "https://hebronmimam.com",
-      "date": "2026-08-04"
+      "date": "2026-08-04",
+      "sha256": "135dba15265001f2c5b1e25906f0d429ee6acac0f1094808abb134985c3ba5d6",
+      "signature": "NG9Z+3KmW8yru/Yb+QN6OR9j3/rdUVURpckb70KU8nkack3BY6Iq9PtVoIkXVeTi4kjjMcRg0WT7NRlLhrenDw==",
+      "key_id": "697b62adadb6892a"
     },
     {
       "version": "1.3.421",
@@ -48,7 +60,10 @@
       "channel": "dev",
       "download_url": "https://raw.githubusercontent.com/hebronmimam/mimams-var-releases/main/packages/mv-wp-v1.3.421.zip",
       "details_url": "https://hebronmimam.com",
-      "date": "2026-08-04"
+      "date": "2026-08-04",
+      "sha256": "a15cc205fc143efe9d657cb40c0c693a42e3aa4e87d8253789d1be1b5e6f9913",
+      "signature": "dD48RRSTOiBhzvfOnmQgmAXQfBsfN9cr4QkPhoEwYA4yYwYu/zhS9VaGlU3bnZVCGgh53vqfLUSqjJmftPYnBQ==",
+      "key_id": "697b62adadb6892a"
     },
     {
       "version": "1.3.420",
@@ -56,7 +71,10 @@
       "channel": "dev",
       "download_url": "https://raw.githubusercontent.com/hebronmimam/mimams-var-releases/main/packages/mv-wp-v1.3.420.zip",
       "details_url": "https://hebronmimam.com",
-      "date": "2026-08-02"
+      "date": "2026-08-02",
+      "sha256": "6cfe1865ed34fc93fcd0be6084e20595231e3b313ea72700fc1607e1ded9434b",
+      "signature": "w349s6DSN3mYJ6Z+MziaeLXmIRwehKcApFZPDiUlv+Jpt79+PTfpc3/J9C4xBVYDglTShDOZ45KTNZJx4zQRDw==",
+      "key_id": "697b62adadb6892a"
     },
     {
       "version": "1.3.419",
@@ -64,7 +82,10 @@
       "channel": "dev",
       "download_url": "https://raw.githubusercontent.com/hebronmimam/mimams-var-releases/main/packages/mv-wp-v1.3.419.zip",
       "details_url": "https://hebronmimam.com",
-      "date": "2026-08-02"
+      "date": "2026-08-02",
+      "sha256": "58d6127114d78c1f05211a1a9f909813d910321d9934dd769cd34e764f3c5832",
+      "signature": "x3MsBFmLeCkB5u6dVcDcVrrjdPvu4TMvowsQpz2vpRLpelXZpPbRLaYyNgr70WHCW+tBxY7kBChfWAAcB8/RDQ==",
+      "key_id": "697b62adadb6892a"
     },
     {
       "version": "1.3.418",
@@ -72,7 +93,10 @@
       "channel": "dev",
       "download_url": "https://raw.githubusercontent.com/hebronmimam/mimams-var-releases/main/packages/mv-wp-v1.3.418.zip",
       "details_url": "https://hebronmimam.com",
-      "date": "2026-08-02"
+      "date": "2026-08-02",
+      "sha256": "6384c3d96b4375fe0742df818ec13acd22600ede5fbdce1fed96e7fe3e2725e6",
+      "signature": "YUZrV24Qrzd4ogeYF5vZvhNjRwnvlfSB/Yvj1nJEZfos89unakWP82OabSPynoi6sSN0XvvR7a40e4g9EzDGBg==",
+      "key_id": "697b62adadb6892a"
     },
     {
       "version": "1.3.417",
@@ -80,7 +104,10 @@
       "channel": "dev",
       "download_url": "https://raw.githubusercontent.com/hebronmimam/mimams-var-releases/main/packages/mv-wp-v1.3.417.zip",
       "details_url": "https://hebronmimam.com",
-      "date": "2026-08-02"
+      "date": "2026-08-02",
+      "sha256": "dbcd1f0e650479a0539bdcf6fbcf1339e1c637e5d6badce6d4d5cadd6a606ac0",
+      "signature": "UjbB0iIPoSdmzwZg5Ow6871bU8QfZerv1omnaD6TCwb7Pr+McHeggYzOwb1lCpYKzMVgHG8snxbeVE77/0xIBw==",
+      "key_id": "697b62adadb6892a"
     },
     {
       "version": "1.3.416",
@@ -88,7 +115,10 @@
       "channel": "dev",
       "download_url": "https://raw.githubusercontent.com/hebronmimam/mimams-var-releases/main/packages/mv-wp-v1.3.416.zip",
       "details_url": "https://hebronmimam.com",
-      "date": "2026-08-02"
+      "date": "2026-08-02",
+      "sha256": "226f658686b8bd60d20a4abcca7edd3b5657a5f722a0724ba8ee9e242c65f9e3",
+      "signature": "DiyV8A7D8PZfzvlH7sB1KnkSLGEDb9mgiS9nMYL5acvGWnDqJTe/oHsox70WAIjoPmxeuLbgY6FiKWFI9hwEBg==",
+      "key_id": "697b62adadb6892a"
     },
     {
       "version": "1.3.415",
@@ -96,7 +126,10 @@
       "channel": "dev",
       "download_url": "https://raw.githubusercontent.com/hebronmimam/mimams-var-releases/main/packages/mv-wp-v1.3.415.zip",
       "details_url": "https://hebronmimam.com",
-      "date": "2026-08-02"
+      "date": "2026-08-02",
+      "sha256": "2cbe7442197d7d0c33a3353a3b95da8e1deb8449a3b4dcf78825682e34c65b86",
+      "signature": "1DQ/TEJQBiZR5e3SCv9Majpnz4NpP9U13QnOk2ftQ+AjXAw72iHRxa3UAzJkObSTTjo0CV7NtIjsiihBRo6zAw==",
+      "key_id": "697b62adadb6892a"
     },
     {
       "version": "1.3.414",
@@ -104,7 +137,10 @@
       "channel": "dev",
       "download_url": "https://raw.githubusercontent.com/hebronmimam/mimams-var-releases/main/packages/mv-wp-v1.3.414.zip",
       "details_url": "https://hebronmimam.com",
-      "date": "2026-07-30"
+      "date": "2026-07-30",
+      "sha256": "a076b070a00176b279a11c33fd5b4ae6a2d2c782e13f9d5c8267f71a3a89ba75",
+      "signature": "eBjVIzmQxII3K5B80amFyXN9DGPCDucCGjUmHRRgP+BPMcfPyPAWtkzGhkn7tGal+TMYJcnRVkSzCyf0yyDOBg==",
+      "key_id": "697b62adadb6892a"
     },
     {
       "version": "1.3.413",
@@ -112,7 +148,10 @@
       "channel": "dev",
       "download_url": "https://raw.githubusercontent.com/hebronmimam/mimams-var-releases/main/packages/mv-wp-v1.3.413.zip",
       "details_url": "https://hebronmimam.com",
-      "date": "2026-07-30"
+      "date": "2026-07-30",
+      "sha256": "64c7b96a9e7e898e73ee7446883d83c5447304c42445368bb52e01b6a458169d",
+      "signature": "NZFl4FaSV07w9bwrDP8+htLNg5LwuJw8WJcUj9scqPNVgdNfiB9ypiQ/g6HztFaZ03ijvE6RuKHLkeMCzDUcCw==",
+      "key_id": "697b62adadb6892a"
     },
     {
       "version": "1.3.412",
@@ -120,7 +159,10 @@
       "channel": "dev",
       "download_url": "https://raw.githubusercontent.com/hebronmimam/mimams-var-releases/main/packages/mv-wp-v1.3.412.zip",
       "details_url": "https://hebronmimam.com",
-      "date": "2026-07-30"
+      "date": "2026-07-30",
+      "sha256": "9e62114330512099a0c498fbf63aa4bb7a2e3d140b2a6e6b297de839e6c0b8cc",
+      "signature": "w2Ma2tJYORwR2Ce/X2dCuTHuKrwi0PaqFyTLUeOzcMEcSbOpo8YXn+n+UQT3CQtHQm6Us4oxQPGai56Vh0aHCA==",
+      "key_id": "697b62adadb6892a"
     },
     {
       "version": "1.3.411",
@@ -128,7 +170,10 @@
       "channel": "dev",
       "download_url": "https://raw.githubusercontent.com/hebronmimam/mimams-var-releases/main/packages/mv-wp-v1.3.411.zip",
       "details_url": "https://hebronmimam.com",
-      "date": "2026-07-30"
+      "date": "2026-07-30",
+      "sha256": "deec1562f6a9f9f406708544ae367c1f1b54e1e3acb39beace02a062d6dab5be",
+      "signature": "TtgLCfrfG+zQAFTQrRGXSiyf6LQ/5F+jiX4yHHaM0DCFoe+0nxloefnTn4MS+iz4t80oROeiFfgdvuHC/ydMDw==",
+      "key_id": "697b62adadb6892a"
     },
     {
       "version": "1.3.410",
@@ -136,7 +181,10 @@
       "channel": "dev",
       "download_url": "https://raw.githubusercontent.com/hebronmimam/mimams-var-releases/main/packages/mv-wp-v1.3.410.zip",
       "details_url": "https://hebronmimam.com",
-      "date": "2026-07-30"
+      "date": "2026-07-30",
+      "sha256": "3775157801f973dc751bad2b09b5313d628f8c1db7d98e4f58aa26d415eb9620",
+      "signature": "pkK7lpgxadB5gJziO7YmRrIFIw8POocXrZcfbNaxV28OCFElLAWsmFU1yjGlSE1WiTX3LWuhWaMMu1i+d+ZvCQ==",
+      "key_id": "697b62adadb6892a"
     },
     {
       "version": "1.3.409",
@@ -144,7 +192,10 @@
       "channel": "dev",
       "download_url": "https://raw.githubusercontent.com/hebronmimam/mimams-var-releases/main/packages/mv-wp-v1.3.409.zip",
       "details_url": "https://hebronmimam.com",
-      "date": "2026-07-30"
+      "date": "2026-07-30",
+      "sha256": "fd5f41dc32af198e40759b8f3085d96117e5a003c23c912d9423f478d8c83236",
+      "signature": "h9vLF8ssiEcWGcZn7PRcwSu9fjnH6dzAkhcT/fJ9ReV5efHXvB2U1kw+Pecwxvf+5/wuC3qsNZrgK8e9rrJlAA==",
+      "key_id": "697b62adadb6892a"
     },
     {
       "version": "1.3.408",
@@ -152,7 +203,10 @@
       "channel": "dev",
       "download_url": "https://raw.githubusercontent.com/hebronmimam/mimams-var-releases/main/packages/mv-wp-v1.3.408.zip",
       "details_url": "https://hebronmimam.com",
-      "date": "2026-07-30"
+      "date": "2026-07-30",
+      "sha256": "b72e2be07790137776ac562b338f6b15d11e10d8f135c62764673187aba5649f",
+      "signature": "F2WnqcbompvyLarGhZY3UbpuZQE28yBXtCKyJjTqcMeTaYX0gqkcUE/lDbV/l4KQOhK/P2jVI9VUJYrCSEkzBA==",
+      "key_id": "697b62adadb6892a"
     },
     {
       "version": "1.3.407",
@@ -160,7 +214,10 @@
       "channel": "dev",
       "download_url": "https://raw.githubusercontent.com/hebronmimam/mimams-var-releases/main/packages/mv-wp-v1.3.407.zip",
       "details_url": "https://hebronmimam.com",
-      "date": "2026-07-30"
+      "date": "2026-07-30",
+      "sha256": "4b86259027b076d555e79bd178b66b234871cb4128e171354d88be967ede64d2",
+      "signature": "Y+q+2UFnHcS62ip3nOmg2kYi+Fn1XZVdhShi7WGL8e/ar5AnmANB+ooQDIWZdcAnxhfH7Ud/vjAwm9KUh5CsDw==",
+      "key_id": "697b62adadb6892a"
     },
     {
       "version": "1.3.406",
@@ -168,7 +225,10 @@
       "channel": "dev",
       "download_url": "https://raw.githubusercontent.com/hebronmimam/mimams-var-releases/main/packages/mv-wp-v1.3.406.zip",
       "details_url": "https://hebronmimam.com",
-      "date": "2026-07-30"
+      "date": "2026-07-30",
+      "sha256": "22948ee707ee9104a32fd17156a477ed7c56508f63d5832feeb80a6a01a72294",
+      "signature": "IMeWWzD7Q/ApYODzmwWipzRkIPFqjBgCgp6KCU/ir3vcOF+xf5jVc+e4yEM/eFSBQk0qtR5iEbv4nQwQPC05AQ==",
+      "key_id": "697b62adadb6892a"
     },
     {
       "version": "1.3.405",
@@ -176,7 +236,10 @@
       "channel": "dev",
       "download_url": "https://raw.githubusercontent.com/hebronmimam/mimams-var-releases/main/packages/mv-wp-v1.3.405.zip",
       "details_url": "https://hebronmimam.com",
-      "date": "2026-07-30"
+      "date": "2026-07-30",
+      "sha256": "e265920ecc612dc42c2177a2c8cad23c288e93550fbce9cedd8d34b2dd06bd14",
+      "signature": "sGk8f9QNdlrHYx4R35KrAF1D3v8XhB52gffnzFQoQcIcouf6x4eVi+m5iPW2y7KcdEe172kZtp4MksNKBggUDA==",
+      "key_id": "697b62adadb6892a"
     },
     {
       "version": "1.3.404",
@@ -184,7 +247,10 @@
       "channel": "dev",
       "download_url": "https://raw.githubusercontent.com/hebronmimam/mimams-var-releases/main/packages/mv-wp-v1.3.404.zip",
       "details_url": "https://hebronmimam.com",
-      "date": "2026-07-30"
+      "date": "2026-07-30",
+      "sha256": "c97352a9ec4b6640f9a100d2f122d4c160302c825787e5e423a2fb4c2eda864b",
+      "signature": "SdiOKulPhi8uyhX1jxXkDLyjSScLhU+AWutbKD6EVhz0Vr0OoV0gIHuitEPa0RxEZeWZqPHV/hG2LhpzEJ/gBw==",
+      "key_id": "697b62adadb6892a"
     },
     {
       "version": "1.3.403",
@@ -192,7 +258,10 @@
       "channel": "dev",
       "download_url": "https://raw.githubusercontent.com/hebronmimam/mimams-var-releases/main/packages/mv-wp-v1.3.403.zip",
       "details_url": "https://hebronmimam.com",
-      "date": "2026-07-30"
+      "date": "2026-07-30",
+      "sha256": "dbb1ada13160559116ab1603ea6ada826ad2006cd50875df2567711ef411936b",
+      "signature": "HbD5EP9mlsPi+UGy0WEpPjyUJtWpHqevYeUMaXaL9iABy81yW76LJic03548lZRbeiHLyLwlT8bnV75rkU53Bg==",
+      "key_id": "697b62adadb6892a"
     },
     {
       "version": "1.3.402",
@@ -200,7 +269,10 @@
       "channel": "dev",
       "download_url": "https://raw.githubusercontent.com/hebronmimam/mimams-var-releases/main/packages/mv-wp-v1.3.402.zip",
       "details_url": "https://hebronmimam.com",
-      "date": "2026-07-30"
+      "date": "2026-07-30",
+      "sha256": "b6c63c8a29d5c84f246acf94bfafc1d878e7ff1e3e879ce668209096e39118c8",
+      "signature": "u9b5FYNBLzCFces6DlwAegpTzLDI3XKEYkFuuKA3PCDVNQn8NE27Omq0uWXb+j1AzUZ/jGAJ0HacJyMPWoVgCw==",
+      "key_id": "697b62adadb6892a"
     },
     {
       "version": "1.3.401",
@@ -208,7 +280,10 @@
       "channel": "dev",
       "download_url": "https://raw.githubusercontent.com/hebronmimam/mimams-var-releases/main/packages/mv-wp-v1.3.401.zip",
       "details_url": "https://hebronmimam.com",
-      "date": "2026-07-30"
+      "date": "2026-07-30",
+      "sha256": "308cf5edc45f2b94a46adcf620b91944abf486d5b3ed11097afc19fe0a173c87",
+      "signature": "Olp76j8YeeYu3GnGqIcs7Vx3t7lJuhe89+b27RnYLztbxWF8AQP8Y3EG/yaEb9OvkEhNKooUv6wbMT0kFOooCw==",
+      "key_id": "697b62adadb6892a"
     },
     {
       "version": "1.3.400",
@@ -216,7 +291,10 @@
       "channel": "dev",
       "download_url": "https://raw.githubusercontent.com/hebronmimam/mimams-var-releases/main/packages/mv-wp-v1.3.400.zip",
       "details_url": "https://hebronmimam.com",
-      "date": "2026-07-30"
+      "date": "2026-07-30",
+      "sha256": "16b3a05589ffeba4cbfe2bb63695e1ea67914f227e936ae269599abd14885382",
+      "signature": "9VHvrudgCybYjpAMIw1UgoTLpThtK12LAipUjKDBNizX+BUgKmQ2iX3e4dMkWFomL/Znmza0RD+COjHtGNUqCQ==",
+      "key_id": "697b62adadb6892a"
     },
     {
       "version": "1.3.399",
@@ -224,7 +302,10 @@
       "channel": "dev",
       "download_url": "https://raw.githubusercontent.com/hebronmimam/mimams-var-releases/main/packages/mv-wp-v1.3.399.zip",
       "details_url": "https://hebronmimam.com",
-      "date": "2026-07-29"
+      "date": "2026-07-29",
+      "sha256": "01e21c3a8cd28364d4af9f85ec62e38872de6dd27a7513ce52a316dc12a24d4b",
+      "signature": "Vb/yiXlSvM+gSTkxHUScwZSLiDquQpH81A1Y9IUJeRqnbSZF6SrLQNSw21bLp3B/faleJf/dWdpL+Doo3bd/Aw==",
+      "key_id": "697b62adadb6892a"
     },
     {
       "version": "1.3.398",
@@ -232,7 +313,10 @@
       "channel": "dev",
       "download_url": "https://raw.githubusercontent.com/hebronmimam/mimams-var-releases/main/packages/mv-wp-v1.3.398.zip",
       "details_url": "https://hebronmimam.com",
-      "date": "2026-07-29"
+      "date": "2026-07-29",
+      "sha256": "5fc75ccace5d065381f26a494fcf12a2a2c45d8987e82fba470b9f2b0fdca205",
+      "signature": "/TcvrBEgWwQASH1IdgbMdXLMr35EiDUt9KH2GlEbWmne1gBSvVRjeJxs+7h75loTkSLlJBcqwPbJRDmTbY8sCg==",
+      "key_id": "697b62adadb6892a"
     },
     {
       "version": "1.3.397",
@@ -240,7 +324,10 @@
       "channel": "dev",
       "download_url": "https://raw.githubusercontent.com/hebronmimam/mimams-var-releases/main/packages/mv-wp-v1.3.397.zip",
       "details_url": "https://hebronmimam.com",
-      "date": "2026-07-29"
+      "date": "2026-07-29",
+      "sha256": "11584e837f564f42a51e7bf92c423933ca2ba1c6c48fa343bd96cef89206faf9",
+      "signature": "xblAE4sB4EmD14ACtlHtzZrEtKrp3E2AITr2w4L8xF9k9WabnkzUO2qb+J2eG5aBM/gGiJ1koFDbQDmX0LrQDA==",
+      "key_id": "697b62adadb6892a"
     },
     {
       "version": "1.3.396",
@@ -248,7 +335,10 @@
       "channel": "dev",
       "download_url": "https://raw.githubusercontent.com/hebronmimam/mimams-var-releases/main/packages/mv-wp-v1.3.396.zip",
       "details_url": "https://hebronmimam.com",
-      "date": "2026-07-29"
+      "date": "2026-07-29",
+      "sha256": "14fdcfe84a4bf85ff02ae9e344062630d7bdda9fe96cb488e349870b54be30f3",
+      "signature": "192h1a323I+qLz5AEWGg4QHA4WnYkv7iZCXob7i+wxuC3Dtld5tGsGRlOOVZLp+Hor/9GxU0ZZJUE5bbETUgAg==",
+      "key_id": "697b62adadb6892a"
     },
     {
       "version": "1.3.395",
@@ -256,7 +346,10 @@
       "channel": "dev",
       "download_url": "https://raw.githubusercontent.com/hebronmimam/mimams-var-releases/main/packages/mv-wp-v1.3.395.zip",
       "details_url": "https://hebronmimam.com",
-      "date": "2026-07-29"
+      "date": "2026-07-29",
+      "sha256": "522efb4b7a8c787278019c348288e221144a22d3e83e35bddd55f7b3c9c29453",
+      "signature": "S5dJDlGL+Gxf8hqmffPdV4gilox1l1Poo4ZxdWStM7gJHM2XFvQRP/KFDquzrdpGXD74IZ7Q8obfTJdn/GK1BA==",
+      "key_id": "697b62adadb6892a"
     },
     {
       "version": "1.3.394",
@@ -264,7 +357,10 @@
       "channel": "dev",
       "download_url": "https://raw.githubusercontent.com/hebronmimam/mimams-var-releases/main/packages/mv-wp-v1.3.394.zip",
       "details_url": "https://hebronmimam.com",
-      "date": "2026-07-29"
+      "date": "2026-07-29",
+      "sha256": "bfc8c59f9c4f227c81844b0526b660239b832e62fbb3bba70500546a2d5c0ec4",
+      "signature": "lPmFtsfx7jOU/kCnM8QFYU9910hppk5AtiCDwfXjVfLod15+bILo1r5gENZo1N+tOsoBAoPQP51aHolkFlBbCA==",
+      "key_id": "697b62adadb6892a"
     },
     {
       "version": "1.3.393",
@@ -272,7 +368,10 @@
       "channel": "dev",
       "download_url": "https://raw.githubusercontent.com/hebronmimam/mimams-var-releases/main/packages/mv-wp-v1.3.393.zip",
       "details_url": "https://hebronmimam.com",
-      "date": "2026-07-29"
+      "date": "2026-07-29",
+      "sha256": "81bf3ddd63b118dbb0a6226b775e81b561ddd4b8e15e683ae78493d0e0227bf8",
+      "signature": "az2IqH5XloiKPF74YPSnvhVi3MIGuSVEsYlKKeqLfjR4iRwVq+i2lKzJzbZH46yD8MM43wmbB0oiLu1kqxfOAw==",
+      "key_id": "697b62adadb6892a"
     },
     {
       "version": "1.3.392",
@@ -280,7 +379,10 @@
       "channel": "dev",
       "download_url": "https://raw.githubusercontent.com/hebronmimam/mimams-var-releases/main/packages/mv-wp-v1.3.392.zip",
       "details_url": "https://hebronmimam.com",
-      "date": "2026-07-29"
+      "date": "2026-07-29",
+      "sha256": "03607108171865015e695179302d8ffd76d0678405469dbcaab82d3c0ba673ed",
+      "signature": "TjoXRMaHjq7m61fn/uALe56PxdztzZzurZlSYcYKvIaaNaK0CP1IK29E13JTdHUOCRyY+wZVIp3LmcEUmRuBDw==",
+      "key_id": "697b62adadb6892a"
     },
     {
       "version": "1.3.391",
@@ -288,7 +390,10 @@
       "channel": "dev",
       "download_url": "https://raw.githubusercontent.com/hebronmimam/mimams-var-releases/main/packages/mv-wp-v1.3.391.zip",
       "details_url": "https://hebronmimam.com",
-      "date": "2026-07-29"
+      "date": "2026-07-29",
+      "sha256": "b527e97eb3ee642199ab850f2636c3cd70e63841d56b7fe0bbdb0f4c638ded24",
+      "signature": "DRJt9jM2GJZjRi5PpNPoIm9ssKoWiWVs65w/pbcUXJgAfQvBNjEM0x51qZ5WBGVljLz8k9kI8Lwp44fkNV4TCw==",
+      "key_id": "697b62adadb6892a"
     },
     {
       "version": "1.3.390",
@@ -296,7 +401,10 @@
       "channel": "dev",
       "download_url": "https://raw.githubusercontent.com/hebronmimam/mimams-var-releases/main/packages/mv-wp-v1.3.390.zip",
       "details_url": "https://hebronmimam.com",
-      "date": "2026-07-29"
+      "date": "2026-07-29",
+      "sha256": "4e51cf1300bd3cf80a242d30bf9eeda7824c0b6b33f0d7b8693134ca74738d05",
+      "signature": "gWgYyAeiTUUVGbje8JWW+Bkj8gkB5//LAddye8cyXHZxzDYevRA2Q8sCgdAdQdeOYdiUnx7S3+em1AtmM6GCAw==",
+      "key_id": "697b62adadb6892a"
     },
     {
       "version": "1.3.389",
@@ -304,7 +412,10 @@
       "channel": "dev",
       "download_url": "https://raw.githubusercontent.com/hebronmimam/mimams-var-releases/main/packages/mv-wp-v1.3.389.zip",
       "details_url": "https://hebronmimam.com",
-      "date": "2026-07-29"
+      "date": "2026-07-29",
+      "sha256": "cd83cfe2f4d7baf9f849fcb30c6a575db5e4bc66ab2296a79f95fbfc4739e8ce",
+      "signature": "1eICKkH9Q5hzU0E04UJCpd9seb8kCZg36nu3PNAPmWHfjIdMTpZfo12n2H+ICpYgwQdNLTs56kEyhsG21vdsAA==",
+      "key_id": "697b62adadb6892a"
     },
     {
       "version": "1.3.388",
@@ -312,7 +423,10 @@
       "channel": "dev",
       "download_url": "https://raw.githubusercontent.com/hebronmimam/mimams-var-releases/main/packages/mv-wp-v1.3.388.zip",
       "details_url": "https://hebronmimam.com",
-      "date": "2026-07-29"
+      "date": "2026-07-29",
+      "sha256": "956125cf1560bae3888bc8365ad914e1df71abec387545a6e6891612a192b20f",
+      "signature": "4FT4YZledZQYuSsw7fEAxJjLY+CS66GcmXGbzw2EHwxzop/NZ1BxpWHbZXYZ9GBd8PI9+kd/VXTdjrhT4AwOBA==",
+      "key_id": "697b62adadb6892a"
     },
     {
       "version": "1.3.387",
@@ -320,7 +434,10 @@
       "channel": "dev",
       "download_url": "https://raw.githubusercontent.com/hebronmimam/mimams-var-releases/main/packages/mv-wp-v1.3.387.zip",
       "details_url": "https://hebronmimam.com",
-      "date": "2026-07-28"
+      "date": "2026-07-28",
+      "sha256": "71450a17eeebf3455fc9bb9496bb4efcd9577afa8459f105241d8833f9a83ee3",
+      "signature": "F4KdfArlHCU2LIcY3fOyH4hw1fGCOsgqsKDM6gbNrnyiRs6y8uCbzugq4mLAMgBTCx+jwoOTZuVcpE42WX5ZAA==",
+      "key_id": "697b62adadb6892a"
     },
     {
       "version": "1.3.386",
@@ -328,7 +445,10 @@
       "channel": "dev",
       "download_url": "https://raw.githubusercontent.com/hebronmimam/mimams-var-releases/main/packages/mv-wp-v1.3.386.zip",
       "details_url": "https://hebronmimam.com",
-      "date": "2026-07-27"
+      "date": "2026-07-27",
+      "sha256": "827c6f8db668685df6b119b58cd194bf55afcbb92eaeef94e31ffc9cefa02279",
+      "signature": "18ABGoLjoHPL51DZ0Ro/ey4h3NmYoj0J6pGSDBBPdchEKDHXhL573t0AEmMBIghEqF/1KdOz7jBnJl9lkLsGDA==",
+      "key_id": "697b62adadb6892a"
     },
     {
       "version": "1.3.385",
@@ -336,7 +456,10 @@
       "channel": "dev",
       "download_url": "https://raw.githubusercontent.com/hebronmimam/mimams-var-releases/main/packages/mv-wp-v1.3.385.zip",
       "details_url": "https://hebronmimam.com",
-      "date": "2026-07-27"
+      "date": "2026-07-27",
+      "sha256": "05f1b923b9c81011cb4ad1aa7d786674125845ef0e7038713ae3758707101fe6",
+      "signature": "FPFP9BWryXD23amK7YLBEznqjmawf2DLdLb+qLXiFvW/CC9XanH4J59kw0WjEqooB4LN/DR8V7gy753PVkG7CQ==",
+      "key_id": "697b62adadb6892a"
     },
     {
       "version": "1.3.384",
@@ -344,7 +467,10 @@
       "channel": "dev",
       "download_url": "https://raw.githubusercontent.com/hebronmimam/mimams-var-releases/main/packages/mv-wp-v1.3.384.zip",
       "details_url": "https://hebronmimam.com",
-      "date": "2026-07-27"
+      "date": "2026-07-27",
+      "sha256": "1803c40e7e5527a07b60cb244c80d4fafe0c42b0a2171804a0c1ac9b90165238",
+      "signature": "Orc/a2Lvpdl3unUGmisjnBqu7xmDJXw+xQ9/u/ccG4oGE4YBfwGILLeNRGK9mLvUnJL5uIFkQf0Lc/JiDm81Dw==",
+      "key_id": "697b62adadb6892a"
     },
     {
       "version": "1.3.383",
@@ -352,7 +478,10 @@
       "channel": "dev",
       "download_url": "https://raw.githubusercontent.com/hebronmimam/mimams-var-releases/main/packages/mv-wp-v1.3.383.zip",
       "details_url": "https://hebronmimam.com",
-      "date": "2026-07-27"
+      "date": "2026-07-27",
+      "sha256": "439cb4549f3a5ba988fd776d950ca84351b7caf561b06c96a017e607d76c2c22",
+      "signature": "xnTRzqkkFnBjHUg8rXmUYCL9Li5J5XNZZObpracVh6CCGI98YtjMyxFBydjW3o92U7QL5uCpPYRfg/bFf5/6Dw==",
+      "key_id": "697b62adadb6892a"
     },
     {
       "version": "1.3.382",
@@ -360,7 +489,10 @@
       "channel": "dev",
       "download_url": "https://raw.githubusercontent.com/hebronmimam/mimams-var-releases/main/packages/mv-wp-v1.3.382.zip",
       "details_url": "https://hebronmimam.com",
-      "date": "2026-07-27"
+      "date": "2026-07-27",
+      "sha256": "6cc42862b85e5606aa6a7629d0ab9dd56792041f37754babc77a3cd14ad5cccd",
+      "signature": "VJVwoU6/J6okhyRbRsncVVCW/iTCQKffYkCnk03tPE3irtm9odh3sBhN9Rm3mHVtzmuQbCAlwtktjOamNtmxBQ==",
+      "key_id": "697b62adadb6892a"
     },
     {
       "version": "1.3.381",
@@ -368,7 +500,10 @@
       "channel": "dev",
       "download_url": "https://raw.githubusercontent.com/hebronmimam/mimams-var-releases/main/packages/mv-wp-v1.3.381.zip",
       "details_url": "https://hebronmimam.com",
-      "date": "2026-07-27"
+      "date": "2026-07-27",
+      "sha256": "906d8485d9b905505f0e89dd9d254c7f3939919ea5917a98cf5f0cf0831b8be3",
+      "signature": "nUtdsHvFccGR9jtnI4yz/tm9OcBHgTmCMSYmmnBdP9DIDD4iCYUi3hQ7l7XKSo2RaR0Jw6Wbixl/Tl+BracKBA==",
+      "key_id": "697b62adadb6892a"
     },
     {
       "version": "1.3.380",
@@ -376,7 +511,10 @@
       "channel": "dev",
       "download_url": "https://raw.githubusercontent.com/hebronmimam/mimams-var-releases/main/packages/mv-wp-v1.3.380.zip",
       "details_url": "https://hebronmimam.com",
-      "date": "2026-07-27"
+      "date": "2026-07-27",
+      "sha256": "77fbac11cdbfc98c97883475b943281292bceb68d920856e4cf33722ecc7c688",
+      "signature": "c+YPwZEAZ9it6YHygZnG6dqxKjQrlBrHQudY+9Z7qQ13h49iQcoodhmJYa0dqJHNPrx5zPfODnRLaQXLLcpzAQ==",
+      "key_id": "697b62adadb6892a"
     },
     {
       "version": "1.3.379",
@@ -384,7 +522,10 @@
       "channel": "dev",
       "download_url": "https://raw.githubusercontent.com/hebronmimam/mimams-var-releases/main/packages/mv-wp-v1.3.379.zip",
       "details_url": "https://hebronmimam.com",
-      "date": "2026-07-27"
+      "date": "2026-07-27",
+      "sha256": "d81c0d5bbb739ba25202d2bd2b5ebb86c6eb95baa2da53b01ac888eb3aa0a1e2",
+      "signature": "Okq7RJ/WO/Qw5S/6F9b5DQIa9g/OsOi1tKGcYty5ON/iGjNuFsueTMIT1T0Nb6ueJ7QqJ9SR/eoV5D+sSzFVDA==",
+      "key_id": "697b62adadb6892a"
     },
     {
       "version": "1.3.378",
@@ -392,7 +533,10 @@
       "channel": "dev",
       "download_url": "https://raw.githubusercontent.com/hebronmimam/mimams-var-releases/main/packages/mv-wp-v1.3.378.zip",
       "details_url": "https://hebronmimam.com",
-      "date": "2026-07-27"
+      "date": "2026-07-27",
+      "sha256": "ed02a2610b0be4e6600d12f3887fbbcb98241f87b2bc8713aed93704fdf4c095",
+      "signature": "sLiOb+wSRWiEF7TAtSu2veFkze6Nd67IJWLLyHIkOODG+SfruU/sqblPMtwCFnwGk7mLqSZiL1EQ6fD4/4oaCQ==",
+      "key_id": "697b62adadb6892a"
     },
     {
       "version": "1.3.377",
@@ -400,7 +544,10 @@
       "channel": "dev",
       "download_url": "https://raw.githubusercontent.com/hebronmimam/mimams-var-releases/main/packages/mv-wp-v1.3.377.zip",
       "details_url": "https://hebronmimam.com",
-      "date": "2026-07-27"
+      "date": "2026-07-27",
+      "sha256": "de460afabb1e79f96b0a77026c6952e8484f10db5c21a4729f3de2cc11645de4",
+      "signature": "EYzWKvF992YCumEBqcd8YphB3NIDuAQs+04xI4GOvG6H9QJ31BrZ+yTmiRTfQxU6ipfLsS2DRsB5TypLJR0WBw==",
+      "key_id": "697b62adadb6892a"
     },
     {
       "version": "1.3.376",
@@ -408,7 +555,10 @@
       "channel": "dev",
       "download_url": "https://raw.githubusercontent.com/hebronmimam/mimams-var-releases/main/packages/mv-wp-v1.3.376.zip",
       "details_url": "https://hebronmimam.com",
-      "date": "2026-07-27"
+      "date": "2026-07-27",
+      "sha256": "ea54bd7773f795d42daa3a98b454435ce4118e6811920ebfc32c1d8dcbf8ba9f",
+      "signature": "sQ8c7KuZQQYC5A7T00BMpYafxv9yuFgzd3BEExg4zZM5riJVcjasJwK53bFpNSBfrNWCKmN3ZNcsqyqA663oCw==",
+      "key_id": "697b62adadb6892a"
     },
     {
       "version": "1.3.375",
@@ -416,7 +566,10 @@
       "channel": "dev",
       "download_url": "https://raw.githubusercontent.com/hebronmimam/mimams-var-releases/main/packages/mv-wp-v1.3.375.zip",
       "details_url": "https://hebronmimam.com",
-      "date": "2026-07-27"
+      "date": "2026-07-27",
+      "sha256": "5498fa12002f33c1240ae6c4a3abf9927321c3240f91a85c3e077082d0afcee0",
+      "signature": "/FpGhC8HXoek+Q/n3Z++kFfijuEIFm2kmkEAhhheC6WhBEg3vB+XaJFmYBFNkTO1ARDGmu5y8afyD04gk5bbAg==",
+      "key_id": "697b62adadb6892a"
     },
     {
       "version": "1.3.374",
@@ -424,7 +577,10 @@
       "channel": "dev",
       "download_url": "https://raw.githubusercontent.com/hebronmimam/mimams-var-releases/main/packages/mv-wp-v1.3.374.zip",
       "details_url": "https://hebronmimam.com",
-      "date": "2026-07-27"
+      "date": "2026-07-27",
+      "sha256": "349c8a809de57b0e87b5fe283c52034ec395c291ff2e8f54dbe7fe4487444686",
+      "signature": "u39n6NB0jJ+BOo9cY9kvuF1ddDupemyiHwXWOiCatoVxkqTpCz+nuRBF1qhLHA1Hld8ytKsnvv106Z8hsU+IBw==",
+      "key_id": "697b62adadb6892a"
     },
     {
       "version": "1.3.373",
@@ -432,7 +588,10 @@
       "channel": "dev",
       "download_url": "https://raw.githubusercontent.com/hebronmimam/mimams-var-releases/main/packages/mv-wp-v1.3.373.zip",
       "details_url": "https://hebronmimam.com",
-      "date": "2026-07-27"
+      "date": "2026-07-27",
+      "sha256": "6af6e918a3628871272f50d7417a6f880695c78ac8bce48c0274074a638555d5",
+      "signature": "qSceDg8aIA1BqmMHTlFQzXuVKXSeLkg+RZNdqmgHK2iEdeqrqhaVdTxYe6r+yh9zSuzbEsdw5344Cd3ifQbzCA==",
+      "key_id": "697b62adadb6892a"
     },
     {
       "version": "1.3.372",
@@ -440,7 +599,10 @@
       "channel": "dev",
       "download_url": "https://raw.githubusercontent.com/hebronmimam/mimams-var-releases/main/packages/mv-wp-v1.3.372.zip",
       "details_url": "https://hebronmimam.com",
-      "date": "2026-07-27"
+      "date": "2026-07-27",
+      "sha256": "1cf868b26179ff4a072eab447015c65d563d97bbe4bfab3eaea48bb06ed401e6",
+      "signature": "hNPtNCYI0uoIogFGH4FIQGvGLgJSK0oBLok8fVCDnFUr1PWergnsajLt09o8URlmIi38mSXYyYGHUxxiAXZ7Bw==",
+      "key_id": "697b62adadb6892a"
     },
     {
       "version": "1.3.371",
@@ -448,7 +610,10 @@
       "channel": "dev",
       "download_url": "https://raw.githubusercontent.com/hebronmimam/mimams-var-releases/main/packages/mv-wp-v1.3.371.zip",
       "details_url": "https://hebronmimam.com",
-      "date": "2026-07-27"
+      "date": "2026-07-27",
+      "sha256": "ef78f77d83fba9a973ec6246f868c8f4bf2efc75697684b4bedcec748fa4aa75",
+      "signature": "8Nsi2bfXuyzK1mVdq832T8JkZFzWYqk0oqC06jbWtOplcvN0LQxIZewZ6CqSMzqylL9uhZC0JyoeyyYbfC+7Cg==",
+      "key_id": "697b62adadb6892a"
     },
     {
       "version": "1.3.370",
@@ -456,7 +621,10 @@
       "channel": "dev",
       "download_url": "https://raw.githubusercontent.com/hebronmimam/mimams-var-releases/main/packages/mv-wp-v1.3.370.zip",
       "details_url": "https://hebronmimam.com",
-      "date": "2026-07-27"
+      "date": "2026-07-27",
+      "sha256": "2c2c50884ba360680b4c3f358e190f9a31ca0a83ffa46469490432c0b0ff18bc",
+      "signature": "jfjhQfyJ9SHHjZhi5rCcWDbn5KhOEryGdJ7UusyhpdeWMa/6oYCu3gnPk5ihYipH42GKbDZbiJIJMwbGLfveDQ==",
+      "key_id": "697b62adadb6892a"
     },
     {
       "version": "1.3.369",
@@ -464,7 +632,10 @@
       "channel": "dev",
       "download_url": "https://raw.githubusercontent.com/hebronmimam/mimams-var-releases/main/packages/mv-wp-v1.3.369.zip",
       "details_url": "https://hebronmimam.com",
-      "date": "2026-07-27"
+      "date": "2026-07-27",
+      "sha256": "a2f1cfc9eeb2da31bb2ee2f10fc15d46f20ff2081ed35a17745c07dfed0b7f58",
+      "signature": "/odx6yumibTz8lotRX1yaahkjxalnB0AcZUNMAs7OvBxW/K0evx3IhYs8qOZYUW+e6ref95xNtSrhWjDEQGmAw==",
+      "key_id": "697b62adadb6892a"
     },
     {
       "version": "1.3.368",
@@ -472,7 +643,10 @@
       "channel": "dev",
       "download_url": "https://raw.githubusercontent.com/hebronmimam/mimams-var-releases/main/packages/mv-wp-v1.3.368.zip",
       "details_url": "https://hebronmimam.com",
-      "date": "2026-07-27"
+      "date": "2026-07-27",
+      "sha256": "b509f3bbe14347cd47b83b7b77568b463648f9b93671f99d51b46bce2346fa19",
+      "signature": "MRUgdB2TknvSKGdj/iJQk3mDbr53Z8R24zZtuA6OOBrNRakI9Qtzu3MJkTHZwjfrPHIG5U4i+WfOsyCa3kL3BA==",
+      "key_id": "697b62adadb6892a"
     },
     {
       "version": "1.3.367",
@@ -480,7 +654,10 @@
       "channel": "dev",
       "download_url": "https://raw.githubusercontent.com/hebronmimam/mimams-var-releases/main/packages/mv-wp-v1.3.367.zip",
       "details_url": "https://hebronmimam.com",
-      "date": "2026-07-27"
+      "date": "2026-07-27",
+      "sha256": "cb27613a1f409ebcd6f4c96051cc9ce5f0dd10b32f875ddfc77417c758619eb3",
+      "signature": "SQOAql3Aar4wVItT6nKodWk99MPNPoao2On64gwIzZZEWYtAwqpUrna7rw7tLHvJxpIz+2mM7BmJT+VBc2CgCA==",
+      "key_id": "697b62adadb6892a"
     },
     {
       "version": "1.3.366",
@@ -488,7 +665,10 @@
       "channel": "dev",
       "download_url": "https://raw.githubusercontent.com/hebronmimam/mimams-var-releases/main/packages/mv-wp-v1.3.366.zip",
       "details_url": "https://hebronmimam.com",
-      "date": "2026-07-27"
+      "date": "2026-07-27",
+      "sha256": "4ba4bb9b26364b31d30bab23366917a3700250b8dbb7d86bfc4675be2f831ec6",
+      "signature": "JNV1rdYxj1r818jx8lwSS1eif603poUJjwogZQ/m0aDCPhQmH6fciHSj4hiaV6ebLVCMo3J9RVblum8YV8DDAg==",
+      "key_id": "697b62adadb6892a"
     },
     {
       "version": "1.3.365",
@@ -496,7 +676,10 @@
       "channel": "dev",
       "download_url": "https://raw.githubusercontent.com/hebronmimam/mimams-var-releases/main/packages/mv-wp-v1.3.365.zip",
       "details_url": "https://hebronmimam.com",
-      "date": "2026-07-27"
+      "date": "2026-07-27",
+      "sha256": "e72c2f65f31fb12bbd0f07187809e6983c721eab6d44b8f3faab08a9cd2ee4f5",
+      "signature": "ARQCPitNizJor4wgbSjtQMGYNR5rKoiEca9AC2xeW3ERcHqVphANC8xJ54A+5rI4NDMx48SZixcKTTPr/XeODg==",
+      "key_id": "697b62adadb6892a"
     },
     {
       "version": "1.3.364",
@@ -504,7 +687,10 @@
       "channel": "dev",
       "download_url": "https://raw.githubusercontent.com/hebronmimam/mimams-var-releases/main/packages/mv-wp-v1.3.364.zip",
       "details_url": "https://hebronmimam.com",
-      "date": "2026-07-27"
+      "date": "2026-07-27",
+      "sha256": "01c21bfee5824c7ce07e4ac0260b7bbf45989a4981b8d90fba8cdcf000ebbb8e",
+      "signature": "hTk7V0szNwgVVCyD1TxO69M7mx+vPREf1HCiY1QZc+CRm/WKcvaBeTG0nzuNlw+XoErbVwNvi+z79Uv0w0EbBg==",
+      "key_id": "697b62adadb6892a"
     },
     {
       "version": "1.3.363",
@@ -512,7 +698,10 @@
       "channel": "dev",
       "download_url": "https://raw.githubusercontent.com/hebronmimam/mimams-var-releases/main/packages/mv-wp-v1.3.363.zip",
       "details_url": "https://hebronmimam.com",
-      "date": "2026-07-27"
+      "date": "2026-07-27",
+      "sha256": "3fc56d3e23fa0a2826bdd05d59440e727045d5bdf0e1e3af864385c414164264",
+      "signature": "pizdyYs9AGlsAGbrFOSJpcV+VhZndq3i3qfWELseIPsS89EXAFzJsHxmoZgDE5i2xGcKoiOdb52HCbV/lDWrDQ==",
+      "key_id": "697b62adadb6892a"
     },
     {
       "version": "1.3.362",
@@ -520,7 +709,10 @@
       "channel": "dev",
       "download_url": "https://raw.githubusercontent.com/hebronmimam/mimams-var-releases/main/packages/mv-wp-v1.3.362.zip",
       "details_url": "https://hebronmimam.com",
-      "date": "2026-07-27"
+      "date": "2026-07-27",
+      "sha256": "c1107942f8adadcaf7d6f3bf3afa1921b42781f2dac2596644455f46bd074303",
+      "signature": "EybneevgC01bYpNuPdcAdSJMROMwNiOMXwX8Gg06Os6nmcvfq5/9GDlzHH4y2aN/hn86cV4aQDGn1nr6izL3AQ==",
+      "key_id": "697b62adadb6892a"
     },
     {
       "version": "1.3.361",
@@ -528,7 +720,10 @@
       "channel": "dev",
       "download_url": "https://raw.githubusercontent.com/hebronmimam/mimams-var-releases/main/packages/mv-wp-v1.3.361.zip",
       "details_url": "https://hebronmimam.com",
-      "date": "2026-07-27"
+      "date": "2026-07-27",
+      "sha256": "6e96aa7bbd9a6604b086da91c12ca067e3ed9652577e3f6028f84894ce45a283",
+      "signature": "LX2z3M1w3QSOT1RiFStHGNKuUcNMezhKMh6iVQrxNFKsHSbigGYKMA4tSV84hZNl7PLTuMQV9CKSoWjN5U7ECQ==",
+      "key_id": "697b62adadb6892a"
     },
     {
       "version": "1.3.360",
@@ -536,7 +731,10 @@
       "channel": "dev",
       "download_url": "https://raw.githubusercontent.com/hebronmimam/mimams-var-releases/main/packages/mv-wp-v1.3.360.zip",
       "details_url": "https://hebronmimam.com",
-      "date": "2026-07-27"
+      "date": "2026-07-27",
+      "sha256": "0e65b415d694c6c586d45a1409bc3d4f94f5d6e4a3eb830a93619d3c34125ebd",
+      "signature": "tKAFADE3iAKS1xwJ3/hC7hySTspLgkfUqC1HhJYfTDcmAXi6wva/tqezpSaqv4tbKqMXk+EQGVgqsH7KnXmiAg==",
+      "key_id": "697b62adadb6892a"
     },
     {
       "version": "1.3.359",
@@ -544,7 +742,10 @@
       "channel": "dev",
       "download_url": "https://raw.githubusercontent.com/hebronmimam/mimams-var-releases/main/packages/mv-wp-v1.3.359.zip",
       "details_url": "https://hebronmimam.com",
-      "date": "2026-07-27"
+      "date": "2026-07-27",
+      "sha256": "1db911a6783ca691a65e9182c1793c85acc3145a0c2ed1dc2aad9efb6064012c",
+      "signature": "Ry9VntNSAu4mfuz7OQt8CuEAulPyCYZq9Xc8iRRZZ6JvnzbW/c5lna8Aq2y9E6ccTwDDnZ/+Ta01rLQWtuBFDA==",
+      "key_id": "697b62adadb6892a"
     },
     {
       "version": "1.3.358",
@@ -552,7 +753,10 @@
       "channel": "dev",
       "download_url": "https://raw.githubusercontent.com/hebronmimam/mimams-var-releases/main/packages/mv-wp-v1.3.358.zip",
       "details_url": "https://hebronmimam.com",
-      "date": "2026-07-27"
+      "date": "2026-07-27",
+      "sha256": "c7ecae6bb9b6b45b8f01b7d95c89ba1f8e3a579b79c6962b6e92c4d91b3956bf",
+      "signature": "frADAyiH97txHI581vRo+lGkbH0v9CB9BcoHE/sRJU51/sgz7HdzO8ofGJJTBUoPUXKvvHQiDgUS7reRYXeYCw==",
+      "key_id": "697b62adadb6892a"
     },
     {
       "version": "1.3.357",
@@ -560,7 +764,10 @@
       "channel": "dev",
       "download_url": "https://raw.githubusercontent.com/hebronmimam/mimams-var-releases/main/packages/mv-wp-v1.3.357.zip",
       "details_url": "https://hebronmimam.com",
-      "date": "2026-07-27"
+      "date": "2026-07-27",
+      "sha256": "77dfbf5f9752a8a00e7cc0d535c6e8143df481005d2a5004bdf80a033d068bca",
+      "signature": "GlYpJvuesCaurY6BGzL/vXFoKTs4csB+PVPzg3ILgkRyAGVk70+arzDEcVrRNXwbgvU+EiGf9QX4awQUA30vAg==",
+      "key_id": "697b62adadb6892a"
     },
     {
       "version": "1.3.356",
@@ -568,7 +775,10 @@
       "channel": "dev",
       "download_url": "https://raw.githubusercontent.com/hebronmimam/mimams-var-releases/main/packages/mv-wp-v1.3.356.zip",
       "details_url": "https://hebronmimam.com",
-      "date": "2026-07-27"
+      "date": "2026-07-27",
+      "sha256": "64b8ea933fc8db43735f0ffc518e9ead0a98eb18c5798cce5566f745a64e938c",
+      "signature": "ESDqkPVu7Vg2VMLfulDB6RTMjpRbOMxDN2sXSx+rYg7eACW25WH8Cx4eYJ1uLJ+gCpe4LzIlZruLnzxfcTs/AQ==",
+      "key_id": "697b62adadb6892a"
     },
     {
       "version": "1.3.355",
@@ -576,7 +786,10 @@
       "channel": "dev",
       "download_url": "https://raw.githubusercontent.com/hebronmimam/mimams-var-releases/main/packages/mv-wp-v1.3.355.zip",
       "details_url": "https://hebronmimam.com",
-      "date": "2026-07-27"
+      "date": "2026-07-27",
+      "sha256": "b6d6caaa98ca2825807a88603470d8e3785ffe7ca1c82a8769bb5fced3083a9e",
+      "signature": "cH6BrXVS99DOtUgHCTAg/D5+IJbL3sNLwqLiPPeE1aE8fggwS+eV6ljQQl72ecI3gFsV6Xl5WPLOMJHBFERmBA==",
+      "key_id": "697b62adadb6892a"
     },
     {
       "version": "1.3.354",
@@ -584,7 +797,10 @@
       "channel": "dev",
       "download_url": "https://raw.githubusercontent.com/hebronmimam/mimams-var-releases/main/packages/mv-wp-v1.3.354.zip",
       "details_url": "https://hebronmimam.com",
-      "date": "2026-07-27"
+      "date": "2026-07-27",
+      "sha256": "1c1fe4a742c46bccb272a21332ebac9bf963099ae72b1005dcdb41eff842b84f",
+      "signature": "+Nvtv9VOcDOibnM/vKp99wHphhbrro5zWZQDEkvy+msUAEE3AqXaEs4FIq2Bv+SV4ncIheur5a/ekF+qAV2gAA==",
+      "key_id": "697b62adadb6892a"
     },
     {
       "version": "1.3.353",
@@ -592,7 +808,10 @@
       "channel": "dev",
       "download_url": "https://raw.githubusercontent.com/hebronmimam/mimams-var-releases/main/packages/mv-wp-v1.3.353.zip",
       "details_url": "https://hebronmimam.com",
-      "date": "2026-07-26"
+      "date": "2026-07-26",
+      "sha256": "6921b84afd92db097cf2d4bce837138914ef1099d4fefd9089fa0a98169a29e3",
+      "signature": "XIz83o1A9rlmeru9r6cmM15twStpZ0qhoT4xb3QsgwyG4anBPxaK1zEOaB2riwsR6rV7krzwU686fJivJy/KCw==",
+      "key_id": "697b62adadb6892a"
     },
     {
       "version": "1.3.352",
@@ -600,7 +819,10 @@
       "channel": "dev",
       "download_url": "https://raw.githubusercontent.com/hebronmimam/mimams-var-releases/main/packages/mv-wp-v1.3.352.zip",
       "details_url": "https://hebronmimam.com",
-      "date": "2026-07-26"
+      "date": "2026-07-26",
+      "sha256": "3c236f46058a57901505eec6722551aaa4d2985721c56613f06eb32460aa2b40",
+      "signature": "mZUJpqLbNw5XLr2rKlHk7y3A/q629Rfa3zdmANaAdhhBRbbj8sSzGCS5RHSUjGjOZtJ28HfY0U6JZRKKf3eGCw==",
+      "key_id": "697b62adadb6892a"
     },
     {
       "version": "1.3.351",
@@ -608,7 +830,10 @@
       "channel": "dev",
       "download_url": "https://raw.githubusercontent.com/hebronmimam/mimams-var-releases/main/packages/mv-wp-v1.3.351.zip",
       "details_url": "https://hebronmimam.com",
-      "date": "2026-07-26"
+      "date": "2026-07-26",
+      "sha256": "64c730f1f54326f56c7e95fbbf097bd8c13b1082a84169962244dd74e59c8135",
+      "signature": "47ulx1c4ETIXXcHAi/k/eId1BAWYU6lsc3MqHExv9lLUZccn1fxUHet7FKjye4zdb7sr6AUfTcVIAo1QT7LEBg==",
+      "key_id": "697b62adadb6892a"
     },
     {
       "version": "1.3.350",
@@ -616,7 +841,10 @@
       "channel": "dev",
       "download_url": "https://raw.githubusercontent.com/hebronmimam/mimams-var-releases/main/packages/mv-wp-v1.3.350.zip",
       "details_url": "https://hebronmimam.com",
-      "date": "2026-07-26"
+      "date": "2026-07-26",
+      "sha256": "bac477b3690e8e48bd59e89f8ce067c1486e05f86a46de775179f4e73258abad",
+      "signature": "n3umhsDY8Yeu1pX+zXr2KvrjYgdwCxuCRyLLkKsqEhuIUROuSSsltyZY2NrVga9PK7/dOGkLdfuMO62pXaFjBA==",
+      "key_id": "697b62adadb6892a"
     },
     {
       "version": "1.3.349",
@@ -624,7 +852,10 @@
       "channel": "dev",
       "download_url": "https://raw.githubusercontent.com/hebronmimam/mimams-var-releases/main/packages/mv-wp-v1.3.349.zip",
       "details_url": "https://hebronmimam.com",
-      "date": "2026-07-26"
+      "date": "2026-07-26",
+      "sha256": "6c6563bb1b30ff4e1dca64dd01c29777dc1b3ef7b49d1a6037d35e517e13baf8",
+      "signature": "RTKh5AqzidkJMJlRh13Ilqg/P+KYLnDrKLyKKSbxdoDySbGGjLD7g4oSGv/9An3HbU/8r2ZSS0oAElZ23qYBBw==",
+      "key_id": "697b62adadb6892a"
     },
     {
       "version": "1.3.348",
@@ -632,7 +863,10 @@
       "channel": "dev",
       "download_url": "https://raw.githubusercontent.com/hebronmimam/mimams-var-releases/main/packages/mv-wp-v1.3.348.zip",
       "details_url": "https://hebronmimam.com",
-      "date": "2026-07-26"
+      "date": "2026-07-26",
+      "sha256": "4091665f70062e6f45174130aa2a37be960604ed9cf1de3a5bce2532fb07f482",
+      "signature": "UJtsi85sWaHVoREXRDcKWKMSOiAylkrksn7S2Bd4D68T0kLpKarUEVEJbNdagfiqhm6ajJKbjg8qIHMrZOApCw==",
+      "key_id": "697b62adadb6892a"
     },
     {
       "version": "1.3.347",
@@ -640,7 +874,10 @@
       "channel": "dev",
       "download_url": "https://raw.githubusercontent.com/hebronmimam/mimams-var-releases/main/packages/mv-wp-v1.3.347.zip",
       "details_url": "https://hebronmimam.com",
-      "date": "2026-07-26"
+      "date": "2026-07-26",
+      "sha256": "073790fd44acc5e63fe3e1dbba28fe81fb604522916c9079e48560345bd492fd",
+      "signature": "loY9twCIIZO/3/KfsPVbLBQ34HVN+3YeEoo7u38n3+mG98uaKF74nX0pXiDRe12G9XJ9IXRzFPu3xsrXCHkDDA==",
+      "key_id": "697b62adadb6892a"
     },
     {
       "version": "1.3.346",
@@ -648,7 +885,10 @@
       "channel": "dev",
       "download_url": "https://raw.githubusercontent.com/hebronmimam/mimams-var-releases/main/packages/mv-wp-v1.3.346.zip",
       "details_url": "https://hebronmimam.com",
-      "date": "2026-07-26"
+      "date": "2026-07-26",
+      "sha256": "27a170c900f2d5eb94f39cc1ab0a1490735fe11cfc2996a9abfe16cb1e7a4d67",
+      "signature": "zMWLIxajON0uIzFuRQyzP3Qjqn3X/JxwyL/jR7Nb0M7A7kpUWz+/Jho698WCtROlo4xVWSMk+W9izansp0jRAA==",
+      "key_id": "697b62adadb6892a"
     },
     {
       "version": "1.3.345",
@@ -656,7 +896,10 @@
       "channel": "dev",
       "download_url": "https://raw.githubusercontent.com/hebronmimam/mimams-var-releases/main/packages/mv-wp-v1.3.345.zip",
       "details_url": "https://hebronmimam.com",
-      "date": "2026-07-26"
+      "date": "2026-07-26",
+      "sha256": "de87fca7b3974e7b2e8f69fce8be2a84c167e94fb575621c0912956f88b7f6a3",
+      "signature": "8ORDFtCBKeOeVDo2ImhuHdItAbtnl2scjGUOSxgGRpdo6KemSusS5b143ytDcJrlSVudtOI7k+xNzNCAcWn+DA==",
+      "key_id": "697b62adadb6892a"
     },
     {
       "version": "1.3.344",
@@ -664,7 +907,10 @@
       "channel": "dev",
       "download_url": "https://raw.githubusercontent.com/hebronmimam/mimams-var-releases/main/packages/mv-wp-v1.3.344.zip",
       "details_url": "https://hebronmimam.com",
-      "date": "2026-07-26"
+      "date": "2026-07-26",
+      "sha256": "5c18505d00b8ef2706f64b0e845b603aab48cf66bc1ac7469ccefff31ac00a77",
+      "signature": "LMjjoty3rdPTj/mDE7t1/nXj2qZIBcr5sc2iGllWasiCwl6JmRuec+m17NUMXn7QtlhgwNNYt1Lrnr5sIZc9AA==",
+      "key_id": "697b62adadb6892a"
     },
     {
       "version": "1.3.343",
@@ -672,7 +918,10 @@
       "channel": "dev",
       "download_url": "https://raw.githubusercontent.com/hebronmimam/mimams-var-releases/main/packages/mv-wp-v1.3.343.zip",
       "details_url": "https://hebronmimam.com",
-      "date": "2026-07-26"
+      "date": "2026-07-26",
+      "sha256": "8698d41ce421663587c7f6ad58844ad3d1edf21483eb1c7de9e6660981d69fcd",
+      "signature": "OYjXXHJlp0kuwMrK6SX72n8QxubGA/mIYEXGBx9FQ1iiNDoIVYI0VQGpVVAUxQW2Ienba2aNj61TXy0dCYnWBw==",
+      "key_id": "697b62adadb6892a"
     },
     {
       "version": "1.3.342",
@@ -680,7 +929,10 @@
       "channel": "dev",
       "download_url": "https://raw.githubusercontent.com/hebronmimam/mimams-var-releases/main/packages/mv-wp-v1.3.342.zip",
       "details_url": "https://hebronmimam.com",
-      "date": "2026-07-26"
+      "date": "2026-07-26",
+      "sha256": "b25c9465446d55356f77ca0922e5c2abbac2b048741541fa9ba466bbb5832501",
+      "signature": "o9qmUggis2Zyi8Qgqvy1IdAhy4oFoOTGPo3ExhKomXyDBpO59AV7BmZkgx2NbDavWDdffVc9dmaNr3PeYtVHDw==",
+      "key_id": "697b62adadb6892a"
     },
     {
       "version": "1.3.341",
@@ -688,7 +940,10 @@
       "channel": "dev",
       "download_url": "https://raw.githubusercontent.com/hebronmimam/mimams-var-releases/main/packages/mv-wp-v1.3.341.zip",
       "details_url": "https://hebronmimam.com",
-      "date": "2026-07-26"
+      "date": "2026-07-26",
+      "sha256": "0a61a26d89f642bacc30c6e36a17ee63bef50f03a72962d030ba2f9ad4a56cc4",
+      "signature": "XbXrNMlAY86yEVpdyP6HSDAOo/C+NSpW9TfUJKZLSyHoNCf+3R/Ld3Aqb3a+wRj0XJs7mI1q2AphHoS8doi2BA==",
+      "key_id": "697b62adadb6892a"
     },
     {
       "version": "1.3.340",
@@ -696,7 +951,10 @@
       "channel": "dev",
       "download_url": "https://raw.githubusercontent.com/hebronmimam/mimams-var-releases/main/packages/mv-wp-v1.3.340.zip",
       "details_url": "https://hebronmimam.com",
-      "date": "2026-07-26"
+      "date": "2026-07-26",
+      "sha256": "e1546faf8069ee1ea64e6f80497f336d4fba59d7181c70c9e616e48f85eb8d07",
+      "signature": "JqUqVQthWvpYVgQrwu/YEfi5dprhp45wzAhPWGNUMpAXnHwRxEbHRsMOQuU0PU7k6DZ4GZHyP0dz5eSyJF6fAg==",
+      "key_id": "697b62adadb6892a"
     },
     {
       "version": "1.3.339",
@@ -704,7 +962,13 @@
       "channel": "dev",
       "download_url": "https://raw.githubusercontent.com/hebronmimam/mimams-var-releases/main/packages/mv-wp-v1.3.339.zip",
       "details_url": "https://hebronmimam.com",
-      "date": "2026-07-26"
+      "date": "2026-07-26",
+      "sha256": "3ba0c2e8507b04b6585cc6161191c37a6bde61f88f0ff021cb9248f1dad64968",
+      "signature": "rBxus5O34Gjmajf581rHlPVWqGXbp1o9aD91dAMosN4OAROQE/Mi/L9lIgDOf36XdpjYG78enG+Mo97mxk9ECQ==",
+      "key_id": "697b62adadb6892a"
     }
-  ]
+  ],
+  "sha256": "7339d6fc35a48fc55a60922625d3ee8fe33b97cd02b6e04920d0d1df2e84aa38",
+  "signature": "0YkUtK21wxoit3zwoRQSgh0CXYslmXN1MVgFR9HFsWmzMkrB+USITPC1jxZCyULBVlQDt7qvRA742ovCH9B9CA==",
+  "key_id": "697b62adadb6892a"
 }
